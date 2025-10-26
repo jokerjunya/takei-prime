@@ -1,0 +1,624 @@
+{
+  "teams": [
+    {
+      "id": "team_001",
+      "name": "AI/MLプロダクト開発チーム",
+      "department": "プロダクト開発部",
+      "description": "AI・機械学習を活用したプロダクト開発を担当",
+      "manager_id": "emp_101",
+      "size": 8,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 75,
+        "extraversion": 50,
+        "agreeableness": 65,
+        "neuroticism": 40,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "LLM統合の技術検証が必要",
+        "スケーラビリティ向上",
+        "新しいMLモデルの実装"
+      ],
+      "workload_average": 75,
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_007",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_008",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_009",
+          "required_level": 3,
+          "is_mandatory": true,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_011",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_002",
+      "name": "フロントエンド開発チーム",
+      "department": "プロダクト開発部",
+      "description": "Webアプリケーションのフロントエンド開発",
+      "manager_id": "emp_102",
+      "size": 6,
+      "location": "東京",
+      "remote_policy": "full_remote",
+      "culture_profile": {
+        "openness": 85,
+        "conscientiousness": 70,
+        "extraversion": 60,
+        "agreeableness": 75,
+        "neuroticism": 35,
+        "openness_variance": 10,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "Next.js移行プロジェクト",
+        "デザインシステムの統一",
+        "パフォーマンス最適化"
+      ],
+      "workload_average": 70,
+      "requirements": [
+        {
+          "skill_id": "sk_003",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_004",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_005",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_022",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_023",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_003",
+      "name": "バックエンド基盤チーム",
+      "department": "プロダクト開発部",
+      "description": "API・データベース・インフラの設計・運用",
+      "manager_id": "emp_103",
+      "size": 7,
+      "location": "東京・大阪",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 85,
+        "extraversion": 45,
+        "agreeableness": 60,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "マイクロサービス化の推進",
+        "データベース最適化",
+        "セキュリティ強化"
+      ],
+      "workload_average": 80,
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_006",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_009",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_010",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_011",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_012",
+          "required_level": 3,
+          "is_mandatory": true,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "team_004",
+      "name": "エンタープライズセールスチーム",
+      "department": "営業本部",
+      "description": "大企業向けソリューション営業",
+      "manager_id": "emp_104",
+      "size": 10,
+      "location": "東京・大阪・名古屋",
+      "remote_policy": "onsite",
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 80,
+        "extraversion": 80,
+        "agreeableness": 75,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 10,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "新規顧客開拓の加速",
+        "契約更新率の向上",
+        "営業プロセスのデジタル化"
+      ],
+      "workload_average": 85,
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_019",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_016",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_005",
+      "name": "カスタマーサクセスチーム",
+      "department": "営業本部",
+      "description": "顧客の成功支援とリテンション向上",
+      "manager_id": "emp_105",
+      "size": 8,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 85,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 8,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "チャーンレート低減",
+        "アップセル・クロスセルの強化",
+        "顧客満足度向上"
+      ],
+      "workload_average": 75,
+      "requirements": [
+        {
+          "skill_id": "sk_019",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 2,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_006",
+      "name": "マーケティング戦略チーム",
+      "department": "マーケティング部",
+      "description": "デジタルマーケティング・ブランディング",
+      "manager_id": "emp_106",
+      "size": 5,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 75,
+        "agreeableness": 70,
+        "neuroticism": 40,
+        "openness_variance": 8,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 12,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 18
+      },
+      "current_challenges": [
+        "リード獲得数の増加",
+        "コンテンツマーケティング強化",
+        "マーケティングROI改善"
+      ],
+      "workload_average": 70,
+      "requirements": [
+        {
+          "skill_id": "sk_020",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_016",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_007",
+      "name": "人事企画チーム",
+      "department": "コーポレート本部",
+      "description": "人事制度設計・組織開発",
+      "manager_id": "emp_107",
+      "size": 4,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 85,
+        "extraversion": 60,
+        "agreeableness": 80,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "人材配置最適化",
+        "エンゲージメント向上",
+        "採用プロセス改善"
+      ],
+      "workload_average": 70,
+      "requirements": [
+        {
+          "skill_id": "sk_024",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_014",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 2,
+          "is_mandatory": false,
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "id": "team_008",
+      "name": "プロダクトマネジメントチーム",
+      "department": "プロダクト開発部",
+      "description": "プロダクト戦略・ロードマップ策定",
+      "manager_id": "emp_108",
+      "size": 5,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 65,
+        "agreeableness": 70,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "プロダクトロードマップの明確化",
+        "ステークホルダー調整",
+        "市場分析・競合調査"
+      ],
+      "workload_average": 80,
+      "requirements": [
+        {
+          "skill_id": "sk_013",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_016",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_023",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "team_009",
+      "name": "デザインチーム",
+      "department": "プロダクト開発部",
+      "description": "プロダクトデザイン・デザインシステム",
+      "manager_id": "emp_109",
+      "size": 6,
+      "location": "東京",
+      "remote_policy": "hybrid",
+      "culture_profile": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 60,
+        "agreeableness": 75,
+        "neuroticism": 40,
+        "openness_variance": 5,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "デザインシステムの構築",
+        "ユーザーリサーチの強化",
+        "アクセシビリティ対応"
+      ],
+      "workload_average": 75,
+      "requirements": [
+        {
+          "skill_id": "sk_022",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_004",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_016",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "team_010",
+      "name": "データ分析チーム",
+      "department": "プロダクト開発部",
+      "description": "データ分析基盤・BI・インサイト提供",
+      "manager_id": "emp_110",
+      "size": 5,
+      "location": "東京",
+      "remote_policy": "full_remote",
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 60,
+        "neuroticism": 40,
+        "openness_variance": 12,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 18,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "データパイプラインの自動化",
+        "リアルタイム分析基盤の構築",
+        "予測モデルの精度向上"
+      ],
+      "workload_average": 75,
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_007",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 2
+        },
+        {
+          "skill_id": "sk_009",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_011",
+          "required_level": 3,
+          "is_mandatory": false,
+          "priority": 3
+        },
+        {
+          "skill_id": "sk_017",
+          "required_level": 4,
+          "is_mandatory": false,
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,180 @@
+{
+  "skills": [
+    {
+      "id": "sk_001",
+      "name": "Python",
+      "category": "technical",
+      "subcategory": "programming_language",
+      "description": "Python プログラミング言語"
+    },
+    {
+      "id": "sk_002",
+      "name": "JavaScript",
+      "category": "technical",
+      "subcategory": "programming_language",
+      "description": "JavaScript プログラミング言語"
+    },
+    {
+      "id": "sk_003",
+      "name": "TypeScript",
+      "category": "technical",
+      "subcategory": "programming_language",
+      "description": "TypeScript プログラミング言語"
+    },
+    {
+      "id": "sk_004",
+      "name": "React",
+      "category": "technical",
+      "subcategory": "framework",
+      "description": "React フロントエンドフレームワーク"
+    },
+    {
+      "id": "sk_005",
+      "name": "Next.js",
+      "category": "technical",
+      "subcategory": "framework",
+      "description": "Next.js フルスタックフレームワーク"
+    },
+    {
+      "id": "sk_006",
+      "name": "FastAPI",
+      "category": "technical",
+      "subcategory": "framework",
+      "description": "FastAPI Pythonフレームワーク"
+    },
+    {
+      "id": "sk_007",
+      "name": "機械学習",
+      "category": "technical",
+      "subcategory": "ml_ai",
+      "description": "機械学習・データサイエンス"
+    },
+    {
+      "id": "sk_008",
+      "name": "自然言語処理",
+      "category": "technical",
+      "subcategory": "ml_ai",
+      "description": "NLP・テキスト分析"
+    },
+    {
+      "id": "sk_009",
+      "name": "SQL",
+      "category": "technical",
+      "subcategory": "database",
+      "description": "SQLデータベース操作"
+    },
+    {
+      "id": "sk_010",
+      "name": "PostgreSQL",
+      "category": "technical",
+      "subcategory": "database",
+      "description": "PostgreSQL データベース"
+    },
+    {
+      "id": "sk_011",
+      "name": "AWS",
+      "category": "technical",
+      "subcategory": "infrastructure",
+      "description": "AWS クラウドインフラ"
+    },
+    {
+      "id": "sk_012",
+      "name": "Docker",
+      "category": "technical",
+      "subcategory": "infrastructure",
+      "description": "Docker コンテナ技術"
+    },
+    {
+      "id": "sk_013",
+      "name": "プロジェクト管理",
+      "category": "soft",
+      "subcategory": "management",
+      "description": "プロジェクトマネジメント"
+    },
+    {
+      "id": "sk_014",
+      "name": "チームリーダーシップ",
+      "category": "soft",
+      "subcategory": "management",
+      "description": "チームマネジメント・リーダーシップ"
+    },
+    {
+      "id": "sk_015",
+      "name": "コミュニケーション",
+      "category": "soft",
+      "subcategory": "interpersonal",
+      "description": "対人コミュニケーション能力"
+    },
+    {
+      "id": "sk_016",
+      "name": "プレゼンテーション",
+      "category": "soft",
+      "subcategory": "interpersonal",
+      "description": "プレゼンテーション能力"
+    },
+    {
+      "id": "sk_017",
+      "name": "問題解決",
+      "category": "soft",
+      "subcategory": "cognitive",
+      "description": "問題解決・分析思考"
+    },
+    {
+      "id": "sk_018",
+      "name": "営業スキル",
+      "category": "domain",
+      "subcategory": "sales",
+      "description": "セールス・営業活動"
+    },
+    {
+      "id": "sk_019",
+      "name": "カスタマーサクセス",
+      "category": "domain",
+      "subcategory": "customer_service",
+      "description": "顧客成功支援"
+    },
+    {
+      "id": "sk_020",
+      "name": "マーケティング",
+      "category": "domain",
+      "subcategory": "marketing",
+      "description": "マーケティング戦略・実行"
+    },
+    {
+      "id": "sk_021",
+      "name": "データ分析",
+      "category": "technical",
+      "subcategory": "data",
+      "description": "データ分析・BI"
+    },
+    {
+      "id": "sk_022",
+      "name": "UI/UXデザイン",
+      "category": "technical",
+      "subcategory": "design",
+      "description": "UI/UXデザイン"
+    },
+    {
+      "id": "sk_023",
+      "name": "アジャイル開発",
+      "category": "soft",
+      "subcategory": "methodology",
+      "description": "アジャイル・スクラム開発"
+    },
+    {
+      "id": "sk_024",
+      "name": "人事労務",
+      "category": "domain",
+      "subcategory": "hr",
+      "description": "人事労務管理"
+    },
+    {
+      "id": "sk_025",
+      "name": "財務会計",
+      "category": "domain",
+      "subcategory": "finance",
+      "description": "財務・会計知識"
+    }
+  ]
+}
+
