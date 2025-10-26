@@ -142,6 +142,25 @@ export interface SkillMaster {
 }
 
 // ========================================
+// 従業員
+// ========================================
+
+export type EmployeeLevel = 'junior' | 'mid' | 'senior' | 'lead'
+
+export interface Employee {
+  id: string
+  name: string
+  team_id: string
+  department: string
+  position: string
+  level: EmployeeLevel
+  tenure: number // 在籍年数
+  personality_profile: PersonalityProfile
+  skills: Skill[]
+  email: string
+}
+
+// ========================================
 // Preferenceプリセット
 // ========================================
 

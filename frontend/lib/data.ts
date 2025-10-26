@@ -2,7 +2,7 @@
  * デモデータローダー
  */
 
-import type { Candidate, Team, SkillMaster } from './types'
+import type { Candidate, Team, SkillMaster, Employee } from './types'
 
 // データファイルのパス（publicディレクトリ）
 const DATA_BASE_URL = '/data'
@@ -81,12 +81,43 @@ export async function getSkill(skillId: string): Promise<SkillMaster | null> {
 }
 
 /**
+ * 従業員データを取得
+ */
+let employeesCache: Employee[] | null = null
+
+export async function getEmployees(): Promise<Employee[]> {
+  if (employeesCache) return employeesCache
+
+  const response = await fetch(`${DATA_BASE_URL}/employees.json`)
+  const data = await response.json()
+  employeesCache = data.employees
+  return employeesCache
+}
+
+/**
+ * チームの従業員を取得
+ */
+export async function getEmployeesByTeam(teamId: string): Promise<Employee[]> {
+  const employees = await getEmployees()
+  return employees.filter(e => e.team_id === teamId)
+}
+
+/**
+ * 部署の従業員を取得
+ */
+export async function getEmployeesByDepartment(department: string): Promise<Employee[]> {
+  const employees = await getEmployees()
+  return employees.filter(e => e.department === department)
+}
+
+/**
  * キャッシュクリア
  */
 export function clearCache() {
   candidatesCache = null
   teamsCache = null
   skillsCache = null
+  employeesCache = null
 }
 
 

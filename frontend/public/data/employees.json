@@ -1,0 +1,3740 @@
+{
+  "metadata": {
+    "total_employees": 149,
+    "generation_date": "2025-10-26",
+    "note": "チームの文化プロファイルを基に生成した既存従業員データ"
+  },
+  "employees": [
+    {
+      "id": "emp_001_01",
+      "name": "近藤 美穂",
+      "team_id": "team_001",
+      "department": "経営企画部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.6,
+      "personality_profile": {
+        "openness": 94,
+        "conscientiousness": 88,
+        "extraversion": 58,
+        "agreeableness": 63,
+        "neuroticism": 54
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 3,
+          "years_of_experience": 1.6239089009283045
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 3.564763139049597
+        }
+      ],
+      "email": "近藤.美穂@company.com"
+    },
+    {
+      "id": "emp_001_02",
+      "name": "石川 翔",
+      "team_id": "team_001",
+      "department": "経営企画部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.3,
+      "personality_profile": {
+        "openness": 89,
+        "conscientiousness": 91,
+        "extraversion": 55,
+        "agreeableness": 60,
+        "neuroticism": 4
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 3.9299114778594886
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 7.875772883274607
+        }
+      ],
+      "email": "石川.翔@company.com"
+    },
+    {
+      "id": "emp_001_03",
+      "name": "小林 奈々",
+      "team_id": "team_001",
+      "department": "経営企画部",
+      "position": "チーフ",
+      "level": "lead",
+      "tenure": 11.5,
+      "personality_profile": {
+        "openness": 86,
+        "conscientiousness": 100,
+        "extraversion": 71,
+        "agreeableness": 84,
+        "neuroticism": 34
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 7.12733107707371
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 3.607011517884083
+        }
+      ],
+      "email": "小林.奈々@company.com"
+    },
+    {
+      "id": "emp_002_01",
+      "name": "林 純",
+      "team_id": "team_002",
+      "department": "経営企画部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 7.2,
+      "personality_profile": {
+        "openness": 73,
+        "conscientiousness": 78,
+        "extraversion": 81,
+        "agreeableness": 76,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 4.108353588716678
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 2.958549229094734
+        }
+      ],
+      "email": "林.純@company.com"
+    },
+    {
+      "id": "emp_002_02",
+      "name": "近藤 梨花",
+      "team_id": "team_002",
+      "department": "経営企画部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 5.5,
+      "personality_profile": {
+        "openness": 79,
+        "conscientiousness": 75,
+        "extraversion": 79,
+        "agreeableness": 84,
+        "neuroticism": 23
+      },
+      "skills": [
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 4,
+          "years_of_experience": 5.799938531373916
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 7.044302306405857
+        }
+      ],
+      "email": "近藤.梨花@company.com"
+    },
+    {
+      "id": "emp_002_03",
+      "name": "橋本 亮",
+      "team_id": "team_002",
+      "department": "経営企画部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.7,
+      "personality_profile": {
+        "openness": 89,
+        "conscientiousness": 97,
+        "extraversion": 48,
+        "agreeableness": 92,
+        "neuroticism": 38
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 5.852719679510204
+        },
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 5.384537815680244
+        }
+      ],
+      "email": "橋本.亮@company.com"
+    },
+    {
+      "id": "emp_003_01",
+      "name": "小林 舞",
+      "team_id": "team_003",
+      "department": "営業本部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 1.4,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 79,
+        "extraversion": 76,
+        "agreeableness": 75,
+        "neuroticism": 48
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 1.634299440878539
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 2.4647733806047314
+        }
+      ],
+      "email": "小林.舞@company.com"
+    },
+    {
+      "id": "emp_003_02",
+      "name": "藤田 さくら",
+      "team_id": "team_003",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.6,
+      "personality_profile": {
+        "openness": 63,
+        "conscientiousness": 78,
+        "extraversion": 74,
+        "agreeableness": 56,
+        "neuroticism": 25
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 1.7511050995768263
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 6.094918780603437
+        }
+      ],
+      "email": "藤田.さくら@company.com"
+    },
+    {
+      "id": "emp_003_03",
+      "name": "池田 隆",
+      "team_id": "team_003",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.1,
+      "personality_profile": {
+        "openness": 45,
+        "conscientiousness": 86,
+        "extraversion": 85,
+        "agreeableness": 71,
+        "neuroticism": 20
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 3.0512561621703504
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 7.425350450321425
+        }
+      ],
+      "email": "池田.隆@company.com"
+    },
+    {
+      "id": "emp_003_04",
+      "name": "長谷川 美穂",
+      "team_id": "team_003",
+      "department": "営業本部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 9.1,
+      "personality_profile": {
+        "openness": 76,
+        "conscientiousness": 91,
+        "extraversion": 80,
+        "agreeableness": 92,
+        "neuroticism": 29
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 4.4715744407716755
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 4.063804153004811
+        }
+      ],
+      "email": "長谷川.美穂@company.com"
+    },
+    {
+      "id": "emp_004_01",
+      "name": "佐々木 舞",
+      "team_id": "team_004",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.9,
+      "personality_profile": {
+        "openness": 91,
+        "conscientiousness": 69,
+        "extraversion": 88,
+        "agreeableness": 83,
+        "neuroticism": 66
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 1.5363162560757893
+        }
+      ],
+      "email": "佐々木.舞@company.com"
+    },
+    {
+      "id": "emp_004_02",
+      "name": "佐々木 純",
+      "team_id": "team_004",
+      "department": "営業本部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.9,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 72,
+        "extraversion": 100,
+        "agreeableness": 83,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 1.5301145506299993
+        }
+      ],
+      "email": "佐々木.純@company.com"
+    },
+    {
+      "id": "emp_004_03",
+      "name": "高橋 大樹",
+      "team_id": "team_004",
+      "department": "営業本部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 8.6,
+      "personality_profile": {
+        "openness": 65,
+        "conscientiousness": 75,
+        "extraversion": 83,
+        "agreeableness": 85,
+        "neuroticism": 25
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 3.651858025633067
+        }
+      ],
+      "email": "高橋.大樹@company.com"
+    },
+    {
+      "id": "emp_004_04",
+      "name": "井上 彩香",
+      "team_id": "team_004",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 9.1,
+      "personality_profile": {
+        "openness": 74,
+        "conscientiousness": 87,
+        "extraversion": 85,
+        "agreeableness": 73,
+        "neuroticism": 17
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 2.8217668044178206
+        }
+      ],
+      "email": "井上.彩香@company.com"
+    },
+    {
+      "id": "emp_005_01",
+      "name": "山田 勇気",
+      "team_id": "team_005",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.8,
+      "personality_profile": {
+        "openness": 73,
+        "conscientiousness": 100,
+        "extraversion": 78,
+        "agreeableness": 85,
+        "neuroticism": 38
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 2.6149164152558972
+        }
+      ],
+      "email": "山田.勇気@company.com"
+    },
+    {
+      "id": "emp_005_02",
+      "name": "森 真理子",
+      "team_id": "team_005",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.7,
+      "personality_profile": {
+        "openness": 63,
+        "conscientiousness": 76,
+        "extraversion": 64,
+        "agreeableness": 79,
+        "neuroticism": 20
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 1.174311354488351
+        }
+      ],
+      "email": "森.真理子@company.com"
+    },
+    {
+      "id": "emp_005_03",
+      "name": "佐藤 舞",
+      "team_id": "team_005",
+      "department": "営業本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 6.7,
+      "personality_profile": {
+        "openness": 64,
+        "conscientiousness": 80,
+        "extraversion": 84,
+        "agreeableness": 65,
+        "neuroticism": 14
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 5.310967956833271
+        }
+      ],
+      "email": "佐藤.舞@company.com"
+    },
+    {
+      "id": "emp_005_04",
+      "name": "前田 梨花",
+      "team_id": "team_005",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.4,
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 100,
+        "extraversion": 63,
+        "agreeableness": 77,
+        "neuroticism": 39
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 2.729664084668131
+        }
+      ],
+      "email": "前田.梨花@company.com"
+    },
+    {
+      "id": "emp_005_05",
+      "name": "佐々木 花子",
+      "team_id": "team_005",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 6.3,
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 74,
+        "extraversion": 71,
+        "agreeableness": 92,
+        "neuroticism": 65
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 7.162859917783512
+        }
+      ],
+      "email": "佐々木.花子@company.com"
+    },
+    {
+      "id": "emp_006_01",
+      "name": "田中 隆",
+      "team_id": "team_006",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.7,
+      "personality_profile": {
+        "openness": 63,
+        "conscientiousness": 78,
+        "extraversion": 90,
+        "agreeableness": 75,
+        "neuroticism": 2
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 2.183186235278031
+        }
+      ],
+      "email": "田中.隆@company.com"
+    },
+    {
+      "id": "emp_006_02",
+      "name": "石川 勇気",
+      "team_id": "team_006",
+      "department": "営業本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.1,
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 66,
+        "extraversion": 87,
+        "agreeableness": 89,
+        "neuroticism": 43
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 2.3233082085650025
+        }
+      ],
+      "email": "石川.勇気@company.com"
+    },
+    {
+      "id": "emp_006_03",
+      "name": "井上 彩",
+      "team_id": "team_006",
+      "department": "営業本部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 1.9,
+      "personality_profile": {
+        "openness": 83,
+        "conscientiousness": 76,
+        "extraversion": 86,
+        "agreeableness": 89,
+        "neuroticism": 50
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 7.86377675293335
+        }
+      ],
+      "email": "井上.彩@company.com"
+    },
+    {
+      "id": "emp_007_01",
+      "name": "吉田 啓介",
+      "team_id": "team_007",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.6,
+      "personality_profile": {
+        "openness": 71,
+        "conscientiousness": 68,
+        "extraversion": 93,
+        "agreeableness": 74,
+        "neuroticism": 51
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 3,
+          "years_of_experience": 2.2867134892654915
+        }
+      ],
+      "email": "吉田.啓介@company.com"
+    },
+    {
+      "id": "emp_007_02",
+      "name": "橋本 恵子",
+      "team_id": "team_007",
+      "department": "営業本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 8.6,
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 62,
+        "extraversion": 80,
+        "agreeableness": 67,
+        "neuroticism": 32
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 6.071471698656925
+        }
+      ],
+      "email": "橋本.恵子@company.com"
+    },
+    {
+      "id": "emp_007_03",
+      "name": "佐藤 理恵",
+      "team_id": "team_007",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.0,
+      "personality_profile": {
+        "openness": 93,
+        "conscientiousness": 69,
+        "extraversion": 60,
+        "agreeableness": 76,
+        "neuroticism": 46
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 5.084565284313334
+        }
+      ],
+      "email": "佐藤.理恵@company.com"
+    },
+    {
+      "id": "emp_008_01",
+      "name": "山崎 健太",
+      "team_id": "team_008",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.9,
+      "personality_profile": {
+        "openness": 73,
+        "conscientiousness": 88,
+        "extraversion": 71,
+        "agreeableness": 79,
+        "neuroticism": 18
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 1.4434155315000163
+        }
+      ],
+      "email": "山崎.健太@company.com"
+    },
+    {
+      "id": "emp_008_02",
+      "name": "加藤 優子",
+      "team_id": "team_008",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.0,
+      "personality_profile": {
+        "openness": 86,
+        "conscientiousness": 80,
+        "extraversion": 76,
+        "agreeableness": 70,
+        "neuroticism": 38
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 6.13090081724783
+        }
+      ],
+      "email": "加藤.優子@company.com"
+    },
+    {
+      "id": "emp_008_03",
+      "name": "伊藤 理恵",
+      "team_id": "team_008",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.7,
+      "personality_profile": {
+        "openness": 89,
+        "conscientiousness": 73,
+        "extraversion": 82,
+        "agreeableness": 71,
+        "neuroticism": 49
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 4.194971960323996
+        }
+      ],
+      "email": "伊藤.理恵@company.com"
+    },
+    {
+      "id": "emp_009_01",
+      "name": "山口 浩二",
+      "team_id": "team_009",
+      "department": "営業本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 3.4,
+      "personality_profile": {
+        "openness": 91,
+        "conscientiousness": 64,
+        "extraversion": 66,
+        "agreeableness": 84,
+        "neuroticism": 29
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 6.907598659006878
+        }
+      ],
+      "email": "山口.浩二@company.com"
+    },
+    {
+      "id": "emp_009_02",
+      "name": "高橋 愛美",
+      "team_id": "team_009",
+      "department": "営業本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 6.9,
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 79,
+        "extraversion": 69,
+        "agreeableness": 91,
+        "neuroticism": 34
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 7.4549842117262735
+        }
+      ],
+      "email": "高橋.愛美@company.com"
+    },
+    {
+      "id": "emp_009_03",
+      "name": "阿部 龍",
+      "team_id": "team_009",
+      "department": "営業本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 6.2,
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 72,
+        "extraversion": 89,
+        "agreeableness": 81,
+        "neuroticism": 45
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 6.087220069043968
+        }
+      ],
+      "email": "阿部.龍@company.com"
+    },
+    {
+      "id": "emp_009_04",
+      "name": "高橋 智也",
+      "team_id": "team_009",
+      "department": "営業本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 74,
+        "extraversion": 67,
+        "agreeableness": 77,
+        "neuroticism": 18
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 1.5393649727231504
+        }
+      ],
+      "email": "高橋.智也@company.com"
+    },
+    {
+      "id": "emp_010_01",
+      "name": "藤田 隆",
+      "team_id": "team_010",
+      "department": "営業本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.8,
+      "personality_profile": {
+        "openness": 87,
+        "conscientiousness": 69,
+        "extraversion": 71,
+        "agreeableness": 80,
+        "neuroticism": 48
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 5.568889549379417
+        }
+      ],
+      "email": "藤田.隆@company.com"
+    },
+    {
+      "id": "emp_010_02",
+      "name": "鈴木 直美",
+      "team_id": "team_010",
+      "department": "営業本部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 11.5,
+      "personality_profile": {
+        "openness": 61,
+        "conscientiousness": 89,
+        "extraversion": 64,
+        "agreeableness": 74,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 1.4200221947757898
+        }
+      ],
+      "email": "鈴木.直美@company.com"
+    },
+    {
+      "id": "emp_010_03",
+      "name": "鈴木 翔太",
+      "team_id": "team_010",
+      "department": "営業本部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.9,
+      "personality_profile": {
+        "openness": 65,
+        "conscientiousness": 83,
+        "extraversion": 59,
+        "agreeableness": 79,
+        "neuroticism": 56
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 1.943398396110743
+        }
+      ],
+      "email": "鈴木.翔太@company.com"
+    },
+    {
+      "id": "emp_011_01",
+      "name": "山田 舞",
+      "team_id": "team_011",
+      "department": "マーケティング部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 9.4,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 91,
+        "extraversion": 69,
+        "agreeableness": 42,
+        "neuroticism": 54
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 5,
+          "years_of_experience": 2.0428285171447884
+        }
+      ],
+      "email": "山田.舞@company.com"
+    },
+    {
+      "id": "emp_011_02",
+      "name": "高橋 直美",
+      "team_id": "team_011",
+      "department": "マーケティング部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 7.6,
+      "personality_profile": {
+        "openness": 97,
+        "conscientiousness": 100,
+        "extraversion": 84,
+        "agreeableness": 63,
+        "neuroticism": 78
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 4.3656259808403455
+        }
+      ],
+      "email": "高橋.直美@company.com"
+    },
+    {
+      "id": "emp_011_03",
+      "name": "渡辺 浩二",
+      "team_id": "team_011",
+      "department": "マーケティング部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.5,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 91,
+        "extraversion": 75,
+        "agreeableness": 47,
+        "neuroticism": 30
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 5,
+          "years_of_experience": 4.183889767296949
+        }
+      ],
+      "email": "渡辺.浩二@company.com"
+    },
+    {
+      "id": "emp_012_01",
+      "name": "山本 航",
+      "team_id": "team_012",
+      "department": "マーケティング部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.5,
+      "personality_profile": {
+        "openness": 77,
+        "conscientiousness": 94,
+        "extraversion": 60,
+        "agreeableness": 76,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 3,
+          "years_of_experience": 6.6282495625485796
+        }
+      ],
+      "email": "山本.航@company.com"
+    },
+    {
+      "id": "emp_012_02",
+      "name": "伊藤 梨花",
+      "team_id": "team_012",
+      "department": "マーケティング部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.6,
+      "personality_profile": {
+        "openness": 83,
+        "conscientiousness": 85,
+        "extraversion": 89,
+        "agreeableness": 83,
+        "neuroticism": 66
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 2.8784241704909164
+        }
+      ],
+      "email": "伊藤.梨花@company.com"
+    },
+    {
+      "id": "emp_012_03",
+      "name": "松本 隆",
+      "team_id": "team_012",
+      "department": "マーケティング部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.1,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 100,
+        "extraversion": 71,
+        "agreeableness": 76,
+        "neuroticism": 68
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 3,
+          "years_of_experience": 3.277435512684528
+        }
+      ],
+      "email": "松本.隆@company.com"
+    },
+    {
+      "id": "emp_013_01",
+      "name": "田中 優子",
+      "team_id": "team_013",
+      "department": "マーケティング部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 8.0,
+      "personality_profile": {
+        "openness": 92,
+        "conscientiousness": 74,
+        "extraversion": 91,
+        "agreeableness": 74,
+        "neuroticism": 40
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 2.742193468100627
+        }
+      ],
+      "email": "田中.優子@company.com"
+    },
+    {
+      "id": "emp_013_02",
+      "name": "小林 美咲",
+      "team_id": "team_013",
+      "department": "マーケティング部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 96,
+        "conscientiousness": 77,
+        "extraversion": 95,
+        "agreeableness": 84,
+        "neuroticism": 47
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 3,
+          "years_of_experience": 3.673939797545229
+        }
+      ],
+      "email": "小林.美咲@company.com"
+    },
+    {
+      "id": "emp_013_03",
+      "name": "近藤 翔",
+      "team_id": "team_013",
+      "department": "マーケティング部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 8.1,
+      "personality_profile": {
+        "openness": 84,
+        "conscientiousness": 74,
+        "extraversion": 74,
+        "agreeableness": 62,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 1.1159614974709342
+        }
+      ],
+      "email": "近藤.翔@company.com"
+    },
+    {
+      "id": "emp_014_01",
+      "name": "渡辺 愛",
+      "team_id": "team_014",
+      "department": "プロダクト開発本部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 13.0,
+      "personality_profile": {
+        "openness": 86,
+        "conscientiousness": 75,
+        "extraversion": 36,
+        "agreeableness": 62,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 4,
+          "years_of_experience": 2.2996620892829345
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 4.633827913136654
+        }
+      ],
+      "email": "渡辺.愛@company.com"
+    },
+    {
+      "id": "emp_014_02",
+      "name": "山口 浩二",
+      "team_id": "team_014",
+      "department": "プロダクト開発本部",
+      "position": "マネージャー",
+      "level": "lead",
+      "tenure": 14.4,
+      "personality_profile": {
+        "openness": 97,
+        "conscientiousness": 90,
+        "extraversion": 90,
+        "agreeableness": 63,
+        "neuroticism": 29
+      },
+      "skills": [
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 4,
+          "years_of_experience": 4.552365722714663
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 2.2428321798794792
+        }
+      ],
+      "email": "山口.浩二@company.com"
+    },
+    {
+      "id": "emp_014_03",
+      "name": "橋本 彩香",
+      "team_id": "team_014",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 3.0,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 71,
+        "extraversion": 49,
+        "agreeableness": 58,
+        "neuroticism": 45
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 3.695615561196302
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 4,
+          "years_of_experience": 6.73221905120742
+        }
+      ],
+      "email": "橋本.彩香@company.com"
+    },
+    {
+      "id": "emp_014_04",
+      "name": "高橋 竜也",
+      "team_id": "team_014",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.6,
+      "personality_profile": {
+        "openness": 92,
+        "conscientiousness": 67,
+        "extraversion": 62,
+        "agreeableness": 76,
+        "neuroticism": 51
+      },
+      "skills": [
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 5,
+          "years_of_experience": 7.329064310969233
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 1.0685103350718588
+        }
+      ],
+      "email": "高橋.竜也@company.com"
+    },
+    {
+      "id": "emp_014_05",
+      "name": "山田 竜也",
+      "team_id": "team_014",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.1,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 60,
+        "extraversion": 79,
+        "agreeableness": 61,
+        "neuroticism": 42
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 4.401276501521396
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 5,
+          "years_of_experience": 6.226427280411437
+        }
+      ],
+      "email": "山田.竜也@company.com"
+    },
+    {
+      "id": "emp_015_01",
+      "name": "長谷川 梨花",
+      "team_id": "team_015",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.7,
+      "personality_profile": {
+        "openness": 81,
+        "conscientiousness": 66,
+        "extraversion": 88,
+        "agreeableness": 66,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 5,
+          "years_of_experience": 7.298931942024064
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 5,
+          "years_of_experience": 5.908068910344987
+        }
+      ],
+      "email": "長谷川.梨花@company.com"
+    },
+    {
+      "id": "emp_015_02",
+      "name": "山崎 太郎",
+      "team_id": "team_015",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.3,
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 80,
+        "extraversion": 62,
+        "agreeableness": 66,
+        "neuroticism": 40
+      },
+      "skills": [
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 4,
+          "years_of_experience": 7.809708768278204
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 4,
+          "years_of_experience": 2.5877977649818815
+        }
+      ],
+      "email": "山崎.太郎@company.com"
+    },
+    {
+      "id": "emp_015_03",
+      "name": "鈴木 翔",
+      "team_id": "team_015",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 3.6,
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 99,
+        "extraversion": 69,
+        "agreeableness": 72,
+        "neuroticism": 12
+      },
+      "skills": [
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 5,
+          "years_of_experience": 2.9305287080281506
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 5,
+          "years_of_experience": 7.9160856239970006
+        }
+      ],
+      "email": "鈴木.翔@company.com"
+    },
+    {
+      "id": "emp_015_04",
+      "name": "藤田 龍",
+      "team_id": "team_015",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.7,
+      "personality_profile": {
+        "openness": 62,
+        "conscientiousness": 88,
+        "extraversion": 83,
+        "agreeableness": 83,
+        "neuroticism": 44
+      },
+      "skills": [
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 4,
+          "years_of_experience": 1.6212498968487408
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 5,
+          "years_of_experience": 5.52984012220268
+        }
+      ],
+      "email": "藤田.龍@company.com"
+    },
+    {
+      "id": "emp_016_01",
+      "name": "清水 勇気",
+      "team_id": "team_016",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.6,
+      "personality_profile": {
+        "openness": 84,
+        "conscientiousness": 100,
+        "extraversion": 57,
+        "agreeableness": 59,
+        "neuroticism": 64
+      },
+      "skills": [
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 3.289827888816027
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 3.6376159226107476
+        }
+      ],
+      "email": "清水.勇気@company.com"
+    },
+    {
+      "id": "emp_016_02",
+      "name": "松本 彩香",
+      "team_id": "team_016",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.1,
+      "personality_profile": {
+        "openness": 77,
+        "conscientiousness": 96,
+        "extraversion": 88,
+        "agreeableness": 66,
+        "neuroticism": 48
+      },
+      "skills": [
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 7.433915984709684
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 4.277716898892097
+        }
+      ],
+      "email": "松本.彩香@company.com"
+    },
+    {
+      "id": "emp_016_03",
+      "name": "清水 亮",
+      "team_id": "team_016",
+      "department": "プロダクト開発本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 5.5,
+      "personality_profile": {
+        "openness": 97,
+        "conscientiousness": 100,
+        "extraversion": 37,
+        "agreeableness": 26,
+        "neuroticism": 20
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 7.150200858829121
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 2.3439984138276477
+        }
+      ],
+      "email": "清水.亮@company.com"
+    },
+    {
+      "id": "emp_016_04",
+      "name": "山口 隆",
+      "team_id": "team_016",
+      "department": "プロダクト開発本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 8.6,
+      "personality_profile": {
+        "openness": 59,
+        "conscientiousness": 85,
+        "extraversion": 7,
+        "agreeableness": 52,
+        "neuroticism": 42
+      },
+      "skills": [
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 5.71785353536251
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 7.847029166152412
+        }
+      ],
+      "email": "山口.隆@company.com"
+    },
+    {
+      "id": "emp_016_05",
+      "name": "小林 美咲",
+      "team_id": "team_016",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 3.3,
+      "personality_profile": {
+        "openness": 53,
+        "conscientiousness": 85,
+        "extraversion": 44,
+        "agreeableness": 70,
+        "neuroticism": 24
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 5.866976950954876
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 1.1016482910712053
+        }
+      ],
+      "email": "小林.美咲@company.com"
+    },
+    {
+      "id": "emp_017_01",
+      "name": "木村 竜也",
+      "team_id": "team_017",
+      "department": "プロダクト開発本部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 7.0,
+      "personality_profile": {
+        "openness": 86,
+        "conscientiousness": 78,
+        "extraversion": 75,
+        "agreeableness": 59,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 5,
+          "years_of_experience": 5.758668655100134
+        }
+      ],
+      "email": "木村.竜也@company.com"
+    },
+    {
+      "id": "emp_017_02",
+      "name": "鈴木 勇気",
+      "team_id": "team_017",
+      "department": "プロダクト開発本部",
+      "position": "マネージャー",
+      "level": "lead",
+      "tenure": 14.1,
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 74,
+        "extraversion": 57,
+        "agreeableness": 65,
+        "neuroticism": 69
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 5,
+          "years_of_experience": 4.835732732361619
+        }
+      ],
+      "email": "鈴木.勇気@company.com"
+    },
+    {
+      "id": "emp_017_03",
+      "name": "山田 彩",
+      "team_id": "team_017",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.6,
+      "personality_profile": {
+        "openness": 74,
+        "conscientiousness": 94,
+        "extraversion": 15,
+        "agreeableness": 76,
+        "neuroticism": 44
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 5,
+          "years_of_experience": 2.9443053604624576
+        }
+      ],
+      "email": "山田.彩@company.com"
+    },
+    {
+      "id": "emp_017_04",
+      "name": "小林 浩二",
+      "team_id": "team_017",
+      "department": "プロダクト開発本部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 71,
+        "conscientiousness": 71,
+        "extraversion": 75,
+        "agreeableness": 78,
+        "neuroticism": 34
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 4,
+          "years_of_experience": 3.2747433886848527
+        }
+      ],
+      "email": "小林.浩二@company.com"
+    },
+    {
+      "id": "emp_018_01",
+      "name": "前田 翔",
+      "team_id": "team_018",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.9,
+      "personality_profile": {
+        "openness": 84,
+        "conscientiousness": 73,
+        "extraversion": 65,
+        "agreeableness": 60,
+        "neuroticism": 4
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 3,
+          "years_of_experience": 1.8387441979897718
+        }
+      ],
+      "email": "前田.翔@company.com"
+    },
+    {
+      "id": "emp_018_02",
+      "name": "阿部 啓介",
+      "team_id": "team_018",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.3,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 75,
+        "extraversion": 40,
+        "agreeableness": 91,
+        "neuroticism": 16
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 6.766625098376126
+        }
+      ],
+      "email": "阿部.啓介@company.com"
+    },
+    {
+      "id": "emp_018_03",
+      "name": "木村 さくら",
+      "team_id": "team_018",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 3.3,
+      "personality_profile": {
+        "openness": 88,
+        "conscientiousness": 100,
+        "extraversion": 26,
+        "agreeableness": 48,
+        "neuroticism": 17
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 6.081335028969102
+        }
+      ],
+      "email": "木村.さくら@company.com"
+    },
+    {
+      "id": "emp_018_04",
+      "name": "山崎 愛美",
+      "team_id": "team_018",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.9,
+      "personality_profile": {
+        "openness": 86,
+        "conscientiousness": 79,
+        "extraversion": 25,
+        "agreeableness": 81,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 5.323900466816932
+        }
+      ],
+      "email": "山崎.愛美@company.com"
+    },
+    {
+      "id": "emp_019_01",
+      "name": "木村 純",
+      "team_id": "team_019",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.3,
+      "personality_profile": {
+        "openness": 60,
+        "conscientiousness": 90,
+        "extraversion": 20,
+        "agreeableness": 62,
+        "neuroticism": 22
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 1.347107766372368
+        }
+      ],
+      "email": "木村.純@company.com"
+    },
+    {
+      "id": "emp_019_02",
+      "name": "佐々木 花子",
+      "team_id": "team_019",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.8,
+      "personality_profile": {
+        "openness": 58,
+        "conscientiousness": 82,
+        "extraversion": 59,
+        "agreeableness": 72,
+        "neuroticism": 52
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 4.443355532855434
+        }
+      ],
+      "email": "佐々木.花子@company.com"
+    },
+    {
+      "id": "emp_019_03",
+      "name": "阿部 理恵",
+      "team_id": "team_019",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.6,
+      "personality_profile": {
+        "openness": 93,
+        "conscientiousness": 96,
+        "extraversion": 77,
+        "agreeableness": 78,
+        "neuroticism": 25
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 3,
+          "years_of_experience": 2.135504974089578
+        }
+      ],
+      "email": "阿部.理恵@company.com"
+    },
+    {
+      "id": "emp_020_01",
+      "name": "高橋 優子",
+      "team_id": "team_020",
+      "department": "プロダクト開発本部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 9.3,
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 88,
+        "extraversion": 27,
+        "agreeableness": 70,
+        "neuroticism": 19
+      },
+      "skills": [
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 1.9256227768860597
+        },
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 3.3009348076489853
+        }
+      ],
+      "email": "高橋.優子@company.com"
+    },
+    {
+      "id": "emp_020_02",
+      "name": "吉田 奈々",
+      "team_id": "team_020",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.9,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 98,
+        "extraversion": 32,
+        "agreeableness": 52,
+        "neuroticism": 29
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 4.464479610230617
+        },
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 5.954983143005961
+        }
+      ],
+      "email": "吉田.奈々@company.com"
+    },
+    {
+      "id": "emp_020_03",
+      "name": "井上 太郎",
+      "team_id": "team_020",
+      "department": "プロダクト開発本部",
+      "position": "チーフ",
+      "level": "lead",
+      "tenure": 7.1,
+      "personality_profile": {
+        "openness": 84,
+        "conscientiousness": 88,
+        "extraversion": 43,
+        "agreeableness": 43,
+        "neuroticism": 35
+      },
+      "skills": [
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 7.474312877824432
+        },
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 6.407943687815421
+        }
+      ],
+      "email": "井上.太郎@company.com"
+    },
+    {
+      "id": "emp_020_04",
+      "name": "森 彩",
+      "team_id": "team_020",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 9.1,
+      "personality_profile": {
+        "openness": 90,
+        "conscientiousness": 80,
+        "extraversion": 43,
+        "agreeableness": 72,
+        "neuroticism": 49
+      },
+      "skills": [
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 4.8227450507843646
+        },
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0310371987695754
+        }
+      ],
+      "email": "森.彩@company.com"
+    },
+    {
+      "id": "emp_021_01",
+      "name": "伊藤 美穂",
+      "team_id": "team_021",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 0.7,
+      "personality_profile": {
+        "openness": 64,
+        "conscientiousness": 81,
+        "extraversion": 54,
+        "agreeableness": 69,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 4.239656550039916
+        }
+      ],
+      "email": "伊藤.美穂@company.com"
+    },
+    {
+      "id": "emp_021_02",
+      "name": "後藤 拓也",
+      "team_id": "team_021",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.3,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 68,
+        "extraversion": 63,
+        "agreeableness": 64,
+        "neuroticism": 35
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 6.112537064787654
+        }
+      ],
+      "email": "後藤.拓也@company.com"
+    },
+    {
+      "id": "emp_021_03",
+      "name": "鈴木 直美",
+      "team_id": "team_021",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.2,
+      "personality_profile": {
+        "openness": 87,
+        "conscientiousness": 93,
+        "extraversion": 27,
+        "agreeableness": 57,
+        "neuroticism": 53
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 5.533078249534459
+        }
+      ],
+      "email": "鈴木.直美@company.com"
+    },
+    {
+      "id": "emp_022_01",
+      "name": "吉田 麻衣",
+      "team_id": "team_022",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.9,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 77,
+        "extraversion": 48,
+        "agreeableness": 57,
+        "neuroticism": 14
+      },
+      "skills": [
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 4,
+          "years_of_experience": 5.422042501363011
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 2.2670807086285247
+        }
+      ],
+      "email": "吉田.麻衣@company.com"
+    },
+    {
+      "id": "emp_022_02",
+      "name": "山口 浩二",
+      "team_id": "team_022",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.2,
+      "personality_profile": {
+        "openness": 91,
+        "conscientiousness": 86,
+        "extraversion": 48,
+        "agreeableness": 80,
+        "neuroticism": 40
+      },
+      "skills": [
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 4,
+          "years_of_experience": 3.922048124015889
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 6.9068432611829484
+        }
+      ],
+      "email": "山口.浩二@company.com"
+    },
+    {
+      "id": "emp_022_03",
+      "name": "清水 浩二",
+      "team_id": "team_022",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.2,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 89,
+        "extraversion": 68,
+        "agreeableness": 82,
+        "neuroticism": 23
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 4.754208333993827
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 5.891922880630265
+        }
+      ],
+      "email": "清水.浩二@company.com"
+    },
+    {
+      "id": "emp_023_01",
+      "name": "中村 翔",
+      "team_id": "team_023",
+      "department": "プロダクト開発本部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.6,
+      "personality_profile": {
+        "openness": 74,
+        "conscientiousness": 86,
+        "extraversion": 82,
+        "agreeableness": 63,
+        "neuroticism": 51
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 5.4530782195244685
+        }
+      ],
+      "email": "中村.翔@company.com"
+    },
+    {
+      "id": "emp_023_02",
+      "name": "渡辺 真理子",
+      "team_id": "team_023",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.5,
+      "personality_profile": {
+        "openness": 67,
+        "conscientiousness": 78,
+        "extraversion": 68,
+        "agreeableness": 61,
+        "neuroticism": 14
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 1.0281917565825096
+        }
+      ],
+      "email": "渡辺.真理子@company.com"
+    },
+    {
+      "id": "emp_023_03",
+      "name": "佐藤 浩二",
+      "team_id": "team_023",
+      "department": "プロダクト開発本部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 91,
+        "conscientiousness": 96,
+        "extraversion": 41,
+        "agreeableness": 47,
+        "neuroticism": 56
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 4.354793125894102
+        }
+      ],
+      "email": "佐藤.浩二@company.com"
+    },
+    {
+      "id": "emp_024_01",
+      "name": "清水 愛美",
+      "team_id": "team_024",
+      "department": "プロダクト開発本部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.1,
+      "personality_profile": {
+        "openness": 64,
+        "conscientiousness": 98,
+        "extraversion": 53,
+        "agreeableness": 70,
+        "neuroticism": 10
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 1.2195039430076007
+        }
+      ],
+      "email": "清水.愛美@company.com"
+    },
+    {
+      "id": "emp_024_02",
+      "name": "池田 愛美",
+      "team_id": "team_024",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 3.6,
+      "personality_profile": {
+        "openness": 71,
+        "conscientiousness": 100,
+        "extraversion": 58,
+        "agreeableness": 65,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 1.9211801005324078
+        }
+      ],
+      "email": "池田.愛美@company.com"
+    },
+    {
+      "id": "emp_024_03",
+      "name": "佐藤 竜也",
+      "team_id": "team_024",
+      "department": "プロダクト開発本部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.9,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 94,
+        "extraversion": 35,
+        "agreeableness": 85,
+        "neuroticism": 19
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 1.2026928167312179
+        }
+      ],
+      "email": "佐藤.竜也@company.com"
+    },
+    {
+      "id": "emp_025_01",
+      "name": "森 誠",
+      "team_id": "team_025",
+      "department": "デザイン部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.8,
+      "personality_profile": {
+        "openness": 92,
+        "conscientiousness": 100,
+        "extraversion": 62,
+        "agreeableness": 71,
+        "neuroticism": 35
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 1.4144838194188276
+        }
+      ],
+      "email": "森.誠@company.com"
+    },
+    {
+      "id": "emp_025_02",
+      "name": "渡辺 さくら",
+      "team_id": "team_025",
+      "department": "デザイン部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 12.7,
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 99,
+        "extraversion": 74,
+        "agreeableness": 70,
+        "neuroticism": 48
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 6.586094062948701
+        }
+      ],
+      "email": "渡辺.さくら@company.com"
+    },
+    {
+      "id": "emp_025_03",
+      "name": "松本 優子",
+      "team_id": "team_025",
+      "department": "デザイン部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 9.5,
+      "personality_profile": {
+        "openness": 97,
+        "conscientiousness": 62,
+        "extraversion": 82,
+        "agreeableness": 84,
+        "neuroticism": 43
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 6.427342761428452
+        }
+      ],
+      "email": "松本.優子@company.com"
+    },
+    {
+      "id": "emp_025_04",
+      "name": "前田 梨花",
+      "team_id": "team_025",
+      "department": "デザイン部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.4,
+      "personality_profile": {
+        "openness": 94,
+        "conscientiousness": 99,
+        "extraversion": 69,
+        "agreeableness": 97,
+        "neuroticism": 59
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 7.870117033109767
+        }
+      ],
+      "email": "前田.梨花@company.com"
+    },
+    {
+      "id": "emp_026_01",
+      "name": "木村 大樹",
+      "team_id": "team_026",
+      "department": "デザイン部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.2,
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 58,
+        "extraversion": 84,
+        "agreeableness": 60,
+        "neuroticism": 28
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 4.219656848366093
+        }
+      ],
+      "email": "木村.大樹@company.com"
+    },
+    {
+      "id": "emp_026_02",
+      "name": "藤田 真理子",
+      "team_id": "team_026",
+      "department": "デザイン部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.4,
+      "personality_profile": {
+        "openness": 79,
+        "conscientiousness": 88,
+        "extraversion": 77,
+        "agreeableness": 59,
+        "neuroticism": 17
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 6.292903666256955
+        }
+      ],
+      "email": "藤田.真理子@company.com"
+    },
+    {
+      "id": "emp_026_03",
+      "name": "清水 彩香",
+      "team_id": "team_026",
+      "department": "デザイン部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.0,
+      "personality_profile": {
+        "openness": 90,
+        "conscientiousness": 79,
+        "extraversion": 60,
+        "agreeableness": 77,
+        "neuroticism": 98
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 1.7042024634296773
+        }
+      ],
+      "email": "清水.彩香@company.com"
+    },
+    {
+      "id": "emp_027_01",
+      "name": "藤田 彩香",
+      "team_id": "team_027",
+      "department": "カスタマーサクセス部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 9.4,
+      "personality_profile": {
+        "openness": 77,
+        "conscientiousness": 87,
+        "extraversion": 86,
+        "agreeableness": 88,
+        "neuroticism": 40
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 4,
+          "years_of_experience": 6.682525225705755
+        }
+      ],
+      "email": "藤田.彩香@company.com"
+    },
+    {
+      "id": "emp_027_02",
+      "name": "松本 智也",
+      "team_id": "team_027",
+      "department": "カスタマーサクセス部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 0.8,
+      "personality_profile": {
+        "openness": 81,
+        "conscientiousness": 98,
+        "extraversion": 77,
+        "agreeableness": 95,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 5,
+          "years_of_experience": 4.22961757672755
+        }
+      ],
+      "email": "松本.智也@company.com"
+    },
+    {
+      "id": "emp_027_03",
+      "name": "伊藤 大樹",
+      "team_id": "team_027",
+      "department": "カスタマーサクセス部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.2,
+      "personality_profile": {
+        "openness": 94,
+        "conscientiousness": 67,
+        "extraversion": 84,
+        "agreeableness": 77,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 5,
+          "years_of_experience": 7.93279247745497
+        }
+      ],
+      "email": "伊藤.大樹@company.com"
+    },
+    {
+      "id": "emp_027_04",
+      "name": "橋本 真理子",
+      "team_id": "team_027",
+      "department": "カスタマーサクセス部",
+      "position": "チーフ",
+      "level": "lead",
+      "tenure": 10.9,
+      "personality_profile": {
+        "openness": 89,
+        "conscientiousness": 74,
+        "extraversion": 87,
+        "agreeableness": 89,
+        "neuroticism": 45
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 5,
+          "years_of_experience": 4.176526816280163
+        }
+      ],
+      "email": "橋本.真理子@company.com"
+    },
+    {
+      "id": "emp_027_05",
+      "name": "佐々木 優子",
+      "team_id": "team_027",
+      "department": "カスタマーサクセス部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 7.3,
+      "personality_profile": {
+        "openness": 95,
+        "conscientiousness": 65,
+        "extraversion": 73,
+        "agreeableness": 78,
+        "neuroticism": 22
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 5,
+          "years_of_experience": 4.996059742718044
+        }
+      ],
+      "email": "佐々木.優子@company.com"
+    },
+    {
+      "id": "emp_028_01",
+      "name": "長谷川 翔",
+      "team_id": "team_028",
+      "department": "カスタマーサクセス部",
+      "position": "",
+      "level": "mid",
+      "tenure": 2.9,
+      "personality_profile": {
+        "openness": 43,
+        "conscientiousness": 80,
+        "extraversion": 44,
+        "agreeableness": 88,
+        "neuroticism": 43
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 4.848475913471184
+        }
+      ],
+      "email": "長谷川.翔@company.com"
+    },
+    {
+      "id": "emp_028_02",
+      "name": "松本 大樹",
+      "team_id": "team_028",
+      "department": "カスタマーサクセス部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 8.8,
+      "personality_profile": {
+        "openness": 63,
+        "conscientiousness": 91,
+        "extraversion": 71,
+        "agreeableness": 93,
+        "neuroticism": 20
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 6.084518353269924
+        }
+      ],
+      "email": "松本.大樹@company.com"
+    },
+    {
+      "id": "emp_028_03",
+      "name": "石川 彩香",
+      "team_id": "team_028",
+      "department": "カスタマーサクセス部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.5,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 80,
+        "extraversion": 78,
+        "agreeableness": 84,
+        "neuroticism": 52
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 2.2271609134607178
+        }
+      ],
+      "email": "石川.彩香@company.com"
+    },
+    {
+      "id": "emp_028_04",
+      "name": "井上 太郎",
+      "team_id": "team_028",
+      "department": "カスタマーサクセス部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.0,
+      "personality_profile": {
+        "openness": 59,
+        "conscientiousness": 95,
+        "extraversion": 69,
+        "agreeableness": 92,
+        "neuroticism": 34
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 6.465871886814787
+        }
+      ],
+      "email": "井上.太郎@company.com"
+    },
+    {
+      "id": "emp_029_01",
+      "name": "橋本 健",
+      "team_id": "team_029",
+      "department": "カスタマーサクセス部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 8.8,
+      "personality_profile": {
+        "openness": 52,
+        "conscientiousness": 81,
+        "extraversion": 89,
+        "agreeableness": 71,
+        "neuroticism": 22
+      },
+      "skills": [
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 4,
+          "years_of_experience": 2.7743571886188265
+        }
+      ],
+      "email": "橋本.健@company.com"
+    },
+    {
+      "id": "emp_029_02",
+      "name": "林 大樹",
+      "team_id": "team_029",
+      "department": "カスタマーサクセス部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.7,
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 100,
+        "extraversion": 61,
+        "agreeableness": 71,
+        "neuroticism": 29
+      },
+      "skills": [
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 1.240426047417325
+        }
+      ],
+      "email": "林.大樹@company.com"
+    },
+    {
+      "id": "emp_029_03",
+      "name": "高橋 愛美",
+      "team_id": "team_029",
+      "department": "カスタマーサクセス部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 7.2,
+      "personality_profile": {
+        "openness": 87,
+        "conscientiousness": 63,
+        "extraversion": 99,
+        "agreeableness": 78,
+        "neuroticism": 44
+      },
+      "skills": [
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 2.201096021719486
+        }
+      ],
+      "email": "高橋.愛美@company.com"
+    },
+    {
+      "id": "emp_030_01",
+      "name": "前田 啓介",
+      "team_id": "team_030",
+      "department": "人事部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.9,
+      "personality_profile": {
+        "openness": 87,
+        "conscientiousness": 78,
+        "extraversion": 60,
+        "agreeableness": 100,
+        "neuroticism": 32
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 1.9726819437031113
+        }
+      ],
+      "email": "前田.啓介@company.com"
+    },
+    {
+      "id": "emp_030_02",
+      "name": "石川 由美",
+      "team_id": "team_030",
+      "department": "人事部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 3.3,
+      "personality_profile": {
+        "openness": 74,
+        "conscientiousness": 79,
+        "extraversion": 83,
+        "agreeableness": 85,
+        "neuroticism": 36
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 6.326520788786366
+        }
+      ],
+      "email": "石川.由美@company.com"
+    },
+    {
+      "id": "emp_030_03",
+      "name": "松本 美咲",
+      "team_id": "team_030",
+      "department": "人事部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.6,
+      "personality_profile": {
+        "openness": 83,
+        "conscientiousness": 94,
+        "extraversion": 97,
+        "agreeableness": 92,
+        "neuroticism": 22
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 6.11943778425798
+        }
+      ],
+      "email": "松本.美咲@company.com"
+    },
+    {
+      "id": "emp_031_01",
+      "name": "高橋 舞",
+      "team_id": "team_031",
+      "department": "人事部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 8.1,
+      "personality_profile": {
+        "openness": 81,
+        "conscientiousness": 99,
+        "extraversion": 43,
+        "agreeableness": 80,
+        "neuroticism": 25
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 6.195808472703354
+        }
+      ],
+      "email": "高橋.舞@company.com"
+    },
+    {
+      "id": "emp_031_02",
+      "name": "長谷川 梨花",
+      "team_id": "team_031",
+      "department": "人事部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.8,
+      "personality_profile": {
+        "openness": 96,
+        "conscientiousness": 87,
+        "extraversion": 30,
+        "agreeableness": 76,
+        "neuroticism": 22
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 1.6452455996611157
+        }
+      ],
+      "email": "長谷川.梨花@company.com"
+    },
+    {
+      "id": "emp_031_03",
+      "name": "後藤 奈々",
+      "team_id": "team_031",
+      "department": "人事部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.6,
+      "personality_profile": {
+        "openness": 77,
+        "conscientiousness": 92,
+        "extraversion": 43,
+        "agreeableness": 84,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 4,
+          "years_of_experience": 4.929364652044779
+        }
+      ],
+      "email": "後藤.奈々@company.com"
+    },
+    {
+      "id": "emp_032_01",
+      "name": "長谷川 勇気",
+      "team_id": "team_032",
+      "department": "総務部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.5,
+      "personality_profile": {
+        "openness": 54,
+        "conscientiousness": 85,
+        "extraversion": 54,
+        "agreeableness": 97,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 5.7161230830721586
+        }
+      ],
+      "email": "長谷川.勇気@company.com"
+    },
+    {
+      "id": "emp_032_02",
+      "name": "長谷川 愛",
+      "team_id": "team_032",
+      "department": "総務部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 9.1,
+      "personality_profile": {
+        "openness": 54,
+        "conscientiousness": 88,
+        "extraversion": 59,
+        "agreeableness": 79,
+        "neuroticism": 35
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 2.0698093090284484
+        }
+      ],
+      "email": "長谷川.愛@company.com"
+    },
+    {
+      "id": "emp_032_03",
+      "name": "長谷川 健",
+      "team_id": "team_032",
+      "department": "総務部",
+      "position": "シニア",
+      "level": "senior",
+      "tenure": 5.9,
+      "personality_profile": {
+        "openness": 55,
+        "conscientiousness": 89,
+        "extraversion": 45,
+        "agreeableness": 77,
+        "neuroticism": 45
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 3,
+          "years_of_experience": 3.0223491546137944
+        }
+      ],
+      "email": "長谷川.健@company.com"
+    },
+    {
+      "id": "emp_033_01",
+      "name": "吉田 花子",
+      "team_id": "team_033",
+      "department": "総務部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.0,
+      "personality_profile": {
+        "openness": 67,
+        "conscientiousness": 94,
+        "extraversion": 59,
+        "agreeableness": 81,
+        "neuroticism": 16
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 4,
+          "years_of_experience": 1.7146284005708043
+        }
+      ],
+      "email": "吉田.花子@company.com"
+    },
+    {
+      "id": "emp_033_02",
+      "name": "伊藤 翔太",
+      "team_id": "team_033",
+      "department": "総務部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.6,
+      "personality_profile": {
+        "openness": 45,
+        "conscientiousness": 93,
+        "extraversion": 43,
+        "agreeableness": 74,
+        "neuroticism": 28
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 3.5282517030400498
+        }
+      ],
+      "email": "伊藤.翔太@company.com"
+    },
+    {
+      "id": "emp_033_03",
+      "name": "松本 航",
+      "team_id": "team_033",
+      "department": "総務部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 88,
+        "extraversion": 93,
+        "agreeableness": 64,
+        "neuroticism": 56
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 4,
+          "years_of_experience": 4.953667067235354
+        }
+      ],
+      "email": "松本.航@company.com"
+    },
+    {
+      "id": "emp_034_01",
+      "name": "池田 美穂",
+      "team_id": "team_034",
+      "department": "財務・経理部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.5,
+      "personality_profile": {
+        "openness": 48,
+        "conscientiousness": 94,
+        "extraversion": 46,
+        "agreeableness": 80,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 1.0376263785420063
+        }
+      ],
+      "email": "池田.美穂@company.com"
+    },
+    {
+      "id": "emp_034_02",
+      "name": "林 亮",
+      "team_id": "team_034",
+      "department": "財務・経理部",
+      "position": "リーダー",
+      "level": "lead",
+      "tenure": 8.9,
+      "personality_profile": {
+        "openness": 58,
+        "conscientiousness": 87,
+        "extraversion": 46,
+        "agreeableness": 63,
+        "neuroticism": 32
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 7.150735764579474
+        }
+      ],
+      "email": "林.亮@company.com"
+    },
+    {
+      "id": "emp_034_03",
+      "name": "近藤 航",
+      "team_id": "team_034",
+      "department": "財務・経理部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.7,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 95,
+        "extraversion": 44,
+        "agreeableness": 58,
+        "neuroticism": 35
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 4,
+          "years_of_experience": 4.78535682134562
+        }
+      ],
+      "email": "近藤.航@company.com"
+    },
+    {
+      "id": "emp_035_01",
+      "name": "鈴木 智也",
+      "team_id": "team_035",
+      "department": "財務・経理部",
+      "position": "マネージャー",
+      "level": "lead",
+      "tenure": 11.7,
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 83,
+        "extraversion": 51,
+        "agreeableness": 90,
+        "neuroticism": 23
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 1.051159152079388
+        }
+      ],
+      "email": "鈴木.智也@company.com"
+    },
+    {
+      "id": "emp_035_02",
+      "name": "田中 美穂",
+      "team_id": "team_035",
+      "department": "財務・経理部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.4,
+      "personality_profile": {
+        "openness": 93,
+        "conscientiousness": 85,
+        "extraversion": 70,
+        "agreeableness": 70,
+        "neuroticism": 48
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 4,
+          "years_of_experience": 6.045776965160657
+        }
+      ],
+      "email": "田中.美穂@company.com"
+    },
+    {
+      "id": "emp_035_03",
+      "name": "森 翔太",
+      "team_id": "team_035",
+      "department": "財務・経理部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 2.5,
+      "personality_profile": {
+        "openness": 71,
+        "conscientiousness": 100,
+        "extraversion": 84,
+        "agreeableness": 57,
+        "neuroticism": 23
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 3.5545841199033923
+        }
+      ],
+      "email": "森.翔太@company.com"
+    },
+    {
+      "id": "emp_036_01",
+      "name": "小林 翔",
+      "team_id": "team_036",
+      "department": "法務・コンプライアンス部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 2.2,
+      "personality_profile": {
+        "openness": 83,
+        "conscientiousness": 99,
+        "extraversion": 37,
+        "agreeableness": 45,
+        "neuroticism": 28
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 3.015007368325895
+        }
+      ],
+      "email": "小林.翔@company.com"
+    },
+    {
+      "id": "emp_036_02",
+      "name": "松本 舞",
+      "team_id": "team_036",
+      "department": "法務・コンプライアンス部",
+      "position": "",
+      "level": "mid",
+      "tenure": 4.2,
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 89,
+        "extraversion": 66,
+        "agreeableness": 70,
+        "neuroticism": 17
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 2.2715916155102702
+        }
+      ],
+      "email": "松本.舞@company.com"
+    },
+    {
+      "id": "emp_036_03",
+      "name": "林 啓介",
+      "team_id": "team_036",
+      "department": "法務・コンプライアンス部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 4.1,
+      "personality_profile": {
+        "openness": 60,
+        "conscientiousness": 95,
+        "extraversion": 62,
+        "agreeableness": 69,
+        "neuroticism": 14
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 6.736416833924429
+        }
+      ],
+      "email": "林.啓介@company.com"
+    },
+    {
+      "id": "emp_037_01",
+      "name": "加藤 舞",
+      "team_id": "team_037",
+      "department": "情報システム部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 6.8,
+      "personality_profile": {
+        "openness": 53,
+        "conscientiousness": 80,
+        "extraversion": 45,
+        "agreeableness": 48,
+        "neuroticism": 34
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 6.917127956645172
+        }
+      ],
+      "email": "加藤.舞@company.com"
+    },
+    {
+      "id": "emp_037_02",
+      "name": "木村 愛美",
+      "team_id": "team_037",
+      "department": "情報システム部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.0,
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 79,
+        "extraversion": 52,
+        "agreeableness": 100,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 4,
+          "years_of_experience": 7.890349537620093
+        }
+      ],
+      "email": "木村.愛美@company.com"
+    },
+    {
+      "id": "emp_037_03",
+      "name": "山田 真理子",
+      "team_id": "team_037",
+      "department": "情報システム部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.0,
+      "personality_profile": {
+        "openness": 53,
+        "conscientiousness": 73,
+        "extraversion": 8,
+        "agreeableness": 85,
+        "neuroticism": 50
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 6.409974544575447
+        }
+      ],
+      "email": "山田.真理子@company.com"
+    },
+    {
+      "id": "emp_038_01",
+      "name": "山崎 彩",
+      "team_id": "team_038",
+      "department": "情報システム部",
+      "position": "リード",
+      "level": "senior",
+      "tenure": 9.0,
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 87,
+        "extraversion": 77,
+        "agreeableness": 60,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 6.802370601833316
+        }
+      ],
+      "email": "山崎.彩@company.com"
+    },
+    {
+      "id": "emp_038_02",
+      "name": "後藤 彩",
+      "team_id": "team_038",
+      "department": "情報システム部",
+      "position": "",
+      "level": "mid",
+      "tenure": 3.5,
+      "personality_profile": {
+        "openness": 95,
+        "conscientiousness": 76,
+        "extraversion": 40,
+        "agreeableness": 88,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 5.893381845255873
+        }
+      ],
+      "email": "後藤.彩@company.com"
+    },
+    {
+      "id": "emp_038_03",
+      "name": "小林 健太",
+      "team_id": "team_038",
+      "department": "情報システム部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 1.5,
+      "personality_profile": {
+        "openness": 100,
+        "conscientiousness": 87,
+        "extraversion": 40,
+        "agreeableness": 69,
+        "neuroticism": 5
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 2.6839107962431017
+        }
+      ],
+      "email": "小林.健太@company.com"
+    },
+    {
+      "id": "emp_039_01",
+      "name": "森 太郎",
+      "team_id": "team_039",
+      "department": "製造部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 2.0,
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 92,
+        "extraversion": 46,
+        "agreeableness": 75,
+        "neuroticism": 28
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 2.778056040914544
+        }
+      ],
+      "email": "森.太郎@company.com"
+    },
+    {
+      "id": "emp_039_02",
+      "name": "山口 沙織",
+      "team_id": "team_039",
+      "department": "製造部",
+      "position": "シニア",
+      "level": "mid",
+      "tenure": 5.3,
+      "personality_profile": {
+        "openness": 55,
+        "conscientiousness": 89,
+        "extraversion": 35,
+        "agreeableness": 59,
+        "neuroticism": 41
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 1.378617482788253
+        }
+      ],
+      "email": "山口.沙織@company.com"
+    },
+    {
+      "id": "emp_039_03",
+      "name": "山田 優子",
+      "team_id": "team_039",
+      "department": "製造部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.0,
+      "personality_profile": {
+        "openness": 51,
+        "conscientiousness": 91,
+        "extraversion": 35,
+        "agreeableness": 92,
+        "neuroticism": 17
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 5.073163062160795
+        }
+      ],
+      "email": "山田.優子@company.com"
+    },
+    {
+      "id": "emp_039_04",
+      "name": "林 恵子",
+      "team_id": "team_039",
+      "department": "製造部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 36,
+        "conscientiousness": 85,
+        "extraversion": 64,
+        "agreeableness": 68,
+        "neuroticism": 30
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 7.395073992675663
+        }
+      ],
+      "email": "林.恵子@company.com"
+    },
+    {
+      "id": "emp_039_05",
+      "name": "中村 奈々",
+      "team_id": "team_039",
+      "department": "製造部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.6,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 99,
+        "extraversion": 61,
+        "agreeableness": 88,
+        "neuroticism": 30
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 3.017281547185826
+        }
+      ],
+      "email": "中村.奈々@company.com"
+    },
+    {
+      "id": "emp_040_01",
+      "name": "藤田 恵",
+      "team_id": "team_040",
+      "department": "製造部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 1.0,
+      "personality_profile": {
+        "openness": 50,
+        "conscientiousness": 90,
+        "extraversion": 61,
+        "agreeableness": 74,
+        "neuroticism": 38
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 1.7005172765089591
+        }
+      ],
+      "email": "藤田.恵@company.com"
+    },
+    {
+      "id": "emp_040_02",
+      "name": "中村 花子",
+      "team_id": "team_040",
+      "department": "製造部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 7.7,
+      "personality_profile": {
+        "openness": 43,
+        "conscientiousness": 92,
+        "extraversion": 77,
+        "agreeableness": 76,
+        "neuroticism": 25
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 1.6225758654838538
+        }
+      ],
+      "email": "中村.花子@company.com"
+    },
+    {
+      "id": "emp_040_03",
+      "name": "渡辺 翔",
+      "team_id": "team_040",
+      "department": "製造部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 0.9,
+      "personality_profile": {
+        "openness": 58,
+        "conscientiousness": 89,
+        "extraversion": 67,
+        "agreeableness": 64,
+        "neuroticism": 4
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 2.7626978593743168
+        }
+      ],
+      "email": "渡辺.翔@company.com"
+    },
+    {
+      "id": "emp_040_04",
+      "name": "石川 大輔",
+      "team_id": "team_040",
+      "department": "製造部",
+      "position": "",
+      "level": "mid",
+      "tenure": 5.2,
+      "personality_profile": {
+        "openness": 54,
+        "conscientiousness": 95,
+        "extraversion": 39,
+        "agreeableness": 76,
+        "neuroticism": 15
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 1.9029668351993774
+        }
+      ],
+      "email": "石川.大輔@company.com"
+    },
+    {
+      "id": "emp_041_01",
+      "name": "小林 優子",
+      "team_id": "team_041",
+      "department": "製造部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.4,
+      "personality_profile": {
+        "openness": 62,
+        "conscientiousness": 82,
+        "extraversion": 61,
+        "agreeableness": 58,
+        "neuroticism": 26
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 1.9198907956623739
+        }
+      ],
+      "email": "小林.優子@company.com"
+    },
+    {
+      "id": "emp_041_02",
+      "name": "加藤 龍",
+      "team_id": "team_041",
+      "department": "製造部",
+      "position": "",
+      "level": "mid",
+      "tenure": 3.6,
+      "personality_profile": {
+        "openness": 95,
+        "conscientiousness": 70,
+        "extraversion": 57,
+        "agreeableness": 50,
+        "neuroticism": 38
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 3.6447954798005475
+        }
+      ],
+      "email": "加藤.龍@company.com"
+    },
+    {
+      "id": "emp_041_03",
+      "name": "松本 奈々",
+      "team_id": "team_041",
+      "department": "製造部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.3,
+      "personality_profile": {
+        "openness": 66,
+        "conscientiousness": 82,
+        "extraversion": 61,
+        "agreeableness": 79,
+        "neuroticism": 6
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 6.684012089777963
+        }
+      ],
+      "email": "松本.奈々@company.com"
+    },
+    {
+      "id": "emp_042_01",
+      "name": "後藤 竜也",
+      "team_id": "team_042",
+      "department": "物流・サプライチェーン部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.4,
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 90,
+        "extraversion": 67,
+        "agreeableness": 74,
+        "neuroticism": 58
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 7.103221841387399
+        }
+      ],
+      "email": "後藤.竜也@company.com"
+    },
+    {
+      "id": "emp_042_02",
+      "name": "林 真理子",
+      "team_id": "team_042",
+      "department": "物流・サプライチェーン部",
+      "position": "ジュニア",
+      "level": "junior",
+      "tenure": 2.1,
+      "personality_profile": {
+        "openness": 51,
+        "conscientiousness": 86,
+        "extraversion": 38,
+        "agreeableness": 78,
+        "neuroticism": 36
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 1.9004125871882187
+        }
+      ],
+      "email": "林.真理子@company.com"
+    },
+    {
+      "id": "emp_042_03",
+      "name": "高橋 恵子",
+      "team_id": "team_042",
+      "department": "物流・サプライチェーン部",
+      "position": "スタッフ",
+      "level": "junior",
+      "tenure": 0.8,
+      "personality_profile": {
+        "openness": 64,
+        "conscientiousness": 89,
+        "extraversion": 50,
+        "agreeableness": 73,
+        "neuroticism": 32
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 4.288860534409574
+        }
+      ],
+      "email": "高橋.恵子@company.com"
+    },
+    {
+      "id": "emp_043_01",
+      "name": "山崎 由美",
+      "team_id": "team_043",
+      "department": "物流・サプライチェーン部",
+      "position": "エキスパート",
+      "level": "senior",
+      "tenure": 9.1,
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 83,
+        "extraversion": 88,
+        "agreeableness": 95,
+        "neuroticism": 43
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 1.1053418946510316
+        }
+      ],
+      "email": "山崎.由美@company.com"
+    },
+    {
+      "id": "emp_043_02",
+      "name": "池田 花子",
+      "team_id": "team_043",
+      "department": "物流・サプライチェーン部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.9,
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 100,
+        "extraversion": 53,
+        "agreeableness": 86,
+        "neuroticism": 37
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 3.967842267229278
+        }
+      ],
+      "email": "池田.花子@company.com"
+    },
+    {
+      "id": "emp_043_03",
+      "name": "長谷川 大輔",
+      "team_id": "team_043",
+      "department": "物流・サプライチェーン部",
+      "position": "アソシエイト",
+      "level": "junior",
+      "tenure": 1.0,
+      "personality_profile": {
+        "openness": 76,
+        "conscientiousness": 73,
+        "extraversion": 62,
+        "agreeableness": 87,
+        "neuroticism": 27
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 3,
+          "years_of_experience": 6.257427266083552
+        }
+      ],
+      "email": "長谷川.大輔@company.com"
+    }
+  ]
+}

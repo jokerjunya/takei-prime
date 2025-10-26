@@ -20,6 +20,7 @@ const navigation = [
   { name: '候補者', href: '/candidates', icon: Users },
   { name: 'チーム', href: '/teams', icon: Building2 },
   { name: '配置シミュレーション', href: '/simulation', icon: Target },
+  { name: '一括配置', href: '/batch-simulation', icon: Users },
   { name: 'レポート', href: '/reports', icon: BarChart3 },
   { name: '設定', href: '/settings', icon: Settings },
 ]
