@@ -16,10 +16,46 @@
       "size": 8,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 85, "conscientiousness": 90, "extraversion": 65, "agreeableness": 70, "neuroticism": 30, "openness_variance": 10, "conscientiousness_variance": 8, "extraversion_variance": 15, "agreeableness_variance": 12, "neuroticism_variance": 12},
-      "current_challenges": ["DX推進計画の策定", "2025年度予算の精緻化", "海外展開戦略の立案"],
+      "culture_profile": {
+        "openness": 85,
+        "conscientiousness": 90,
+        "extraversion": 65,
+        "agreeableness": 70,
+        "neuroticism": 30,
+        "openness_variance": 10,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "DX推進計画の策定",
+        "2025年度予算の精緻化",
+        "海外展開戦略の立案"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_017", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_021", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_017",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_021",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_002",
@@ -30,10 +66,46 @@
       "size": 7,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 80, "conscientiousness": 85, "extraversion": 75, "agreeableness": 80, "neuroticism": 35, "openness_variance": 12, "conscientiousness_variance": 10, "extraversion_variance": 12, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["IR資料の英語化対応", "SNS広報戦略の強化", "株主総会の準備"],
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 75,
+        "agreeableness": 80,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 12,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "IR資料の英語化対応",
+        "SNS広報戦略の強化",
+        "株主総会の準備"
+      ],
       "workload_average": 72,
-      "requirements": [{"skill_id": "sk_015", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_016", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_016",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "marketing",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_003",
@@ -44,10 +116,52 @@
       "size": 18,
       "location": "東京本社",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 70, "conscientiousness": 82, "extraversion": 85, "agreeableness": 78, "neuroticism": 30, "openness_variance": 15, "conscientiousness_variance": 12, "extraversion_variance": 10, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["大型案件のクロージング強化", "提案書作成の効率化", "顧客との長期関係構築"],
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 82,
+        "extraversion": 85,
+        "agreeableness": 78,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 10,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "大型案件のクロージング強化",
+        "提案書作成の効率化",
+        "顧客との長期関係構築"
+      ],
       "workload_average": 85,
-      "requirements": [{"skill_id": "sk_018", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_015", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_004",
@@ -58,10 +172,46 @@
       "size": 16,
       "location": "東京本社",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 72, "conscientiousness": 80, "extraversion": 88, "agreeableness": 75, "neuroticism": 32, "openness_variance": 15, "conscientiousness_variance": 12, "extraversion_variance": 10, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["通信業界への新規開拓", "クロスセル・アップセルの推進", "顧客満足度の向上"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 80,
+        "extraversion": 88,
+        "agreeableness": 75,
+        "neuroticism": 32,
+        "openness_variance": 15,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 10,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "通信業界への新規開拓",
+        "クロスセル・アップセルの推進",
+        "顧客満足度の向上"
+      ],
       "workload_average": 83,
-      "requirements": [{"skill_id": "sk_018", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_005",
@@ -72,10 +222,52 @@
       "size": 22,
       "location": "東京・大阪・名古屋",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 78, "extraversion": 82, "agreeableness": 80, "neuroticism": 35, "openness_variance": 15, "conscientiousness_variance": 15, "extraversion_variance": 12, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["新規顧客開拓の加速", "成約率の向上", "営業プロセスのデジタル化"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 78,
+        "extraversion": 82,
+        "agreeableness": 80,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 12,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "新規顧客開拓の加速",
+        "成約率の向上",
+        "営業プロセスのデジタル化"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_018", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "junior",
+          "count": 2,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_006",
@@ -86,10 +278,46 @@
       "size": 15,
       "location": "東京本社",
       "remote_policy": "full_remote",
-      "culture_profile": {"openness": 78, "conscientiousness": 82, "extraversion": 80, "agreeableness": 82, "neuroticism": 38, "openness_variance": 12, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["リード獲得数の増加", "商談化率の向上", "CRM活用の最適化"],
+      "culture_profile": {
+        "openness": 78,
+        "conscientiousness": 82,
+        "extraversion": 80,
+        "agreeableness": 82,
+        "neuroticism": 38,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "リード獲得数の増加",
+        "商談化率の向上",
+        "CRM活用の最適化"
+      ],
       "workload_average": 75,
-      "requirements": [{"skill_id": "sk_015", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_007",
@@ -100,10 +328,46 @@
       "size": 14,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 78, "conscientiousness": 80, "extraversion": 80, "agreeableness": 85, "neuroticism": 35, "openness_variance": 12, "conscientiousness_variance": 12, "extraversion_variance": 12, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["パートナー開拓", "パートナー教育プログラム", "共同マーケティングの推進"],
+      "culture_profile": {
+        "openness": 78,
+        "conscientiousness": 80,
+        "extraversion": 80,
+        "agreeableness": 85,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 12,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "パートナー開拓",
+        "パートナー教育プログラム",
+        "共同マーケティングの推進"
+      ],
       "workload_average": 72,
-      "requirements": [{"skill_id": "sk_018", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_008",
@@ -114,10 +378,46 @@
       "size": 12,
       "location": "東京本社・シンガポール",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 88, "conscientiousness": 78, "extraversion": 75, "agreeableness": 72, "neuroticism": 40, "openness_variance": 10, "conscientiousness_variance": 15, "extraversion_variance": 15, "agreeableness_variance": 18, "neuroticism_variance": 15},
-      "current_challenges": ["海外市場の開拓", "現地パートナーとの連携", "多言語対応の強化"],
+      "culture_profile": {
+        "openness": 88,
+        "conscientiousness": 78,
+        "extraversion": 75,
+        "agreeableness": 72,
+        "neuroticism": 40,
+        "openness_variance": 10,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 18,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "海外市場の開拓",
+        "現地パートナーとの連携",
+        "多言語対応の強化"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_018", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_018",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_009",
@@ -128,10 +428,46 @@
       "size": 18,
       "location": "東京・大阪",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 70, "conscientiousness": 85, "extraversion": 68, "agreeableness": 88, "neuroticism": 35, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 8, "neuroticism_variance": 15},
-      "current_challenges": ["問い合わせ対応時間の短縮", "顧客満足度の向上", "FAQの充実化"],
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 85,
+        "extraversion": 68,
+        "agreeableness": 88,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 8,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "問い合わせ対応時間の短縮",
+        "顧客満足度の向上",
+        "FAQの充実化"
+      ],
       "workload_average": 82,
-      "requirements": [{"skill_id": "sk_015", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "customer_success",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "customer_success",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_010",
@@ -142,10 +478,40 @@
       "size": 10,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 82, "conscientiousness": 85, "extraversion": 65, "agreeableness": 75, "neuroticism": 35, "openness_variance": 12, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["営業データの可視化", "SFA導入・定着", "営業プロセスの標準化"],
+      "culture_profile": {
+        "openness": 82,
+        "conscientiousness": 85,
+        "extraversion": 65,
+        "agreeableness": 75,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "営業データの可視化",
+        "SFA導入・定着",
+        "営業プロセスの標準化"
+      ],
       "workload_average": 74,
-      "requirements": [{"skill_id": "sk_021", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_021",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "sales",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_011",
@@ -156,10 +522,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 90, "conscientiousness": 75, "extraversion": 70, "agreeableness": 72, "neuroticism": 40, "openness_variance": 8, "conscientiousness_variance": 15, "extraversion_variance": 15, "agreeableness_variance": 15, "neuroticism_variance": 18},
-      "current_challenges": ["新プロダクトのローンチ戦略", "競合分析の強化", "顧客ペルソナの再定義"],
+      "culture_profile": {
+        "openness": 90,
+        "conscientiousness": 75,
+        "extraversion": 70,
+        "agreeableness": 72,
+        "neuroticism": 40,
+        "openness_variance": 8,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 18
+      },
+      "current_challenges": [
+        "新プロダクトのローンチ戦略",
+        "競合分析の強化",
+        "顧客ペルソナの再定義"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_020", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_020",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "marketing",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "marketing",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_012",
@@ -170,10 +572,46 @@
       "size": 14,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 85, "conscientiousness": 78, "extraversion": 72, "agreeableness": 75, "neuroticism": 42, "openness_variance": 10, "conscientiousness_variance": 15, "extraversion_variance": 18, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["広告ROIの改善", "コンバージョン率の向上", "MA導入"],
+      "culture_profile": {
+        "openness": 85,
+        "conscientiousness": 78,
+        "extraversion": 72,
+        "agreeableness": 75,
+        "neuroticism": 42,
+        "openness_variance": 10,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "広告ROIの改善",
+        "コンバージョン率の向上",
+        "MA導入"
+      ],
       "workload_average": 72,
-      "requirements": [{"skill_id": "sk_020", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_020",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "marketing",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "marketing",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_013",
@@ -184,10 +622,40 @@
       "size": 9,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 92, "conscientiousness": 72, "extraversion": 68, "agreeableness": 78, "neuroticism": 45, "openness_variance": 8, "conscientiousness_variance": 18, "extraversion_variance": 20, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["コンテンツ制作の効率化", "ブランド認知度の向上", "SNS戦略の強化"],
+      "culture_profile": {
+        "openness": 92,
+        "conscientiousness": 72,
+        "extraversion": 68,
+        "agreeableness": 78,
+        "neuroticism": 45,
+        "openness_variance": 8,
+        "conscientiousness_variance": 18,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "コンテンツ制作の効率化",
+        "ブランド認知度の向上",
+        "SNS戦略の強化"
+      ],
       "workload_average": 68,
-      "requirements": [{"skill_id": "sk_020", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_020",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "marketing",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_014",
@@ -198,10 +666,52 @@
       "size": 20,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 88, "conscientiousness": 80, "extraversion": 52, "agreeableness": 65, "neuroticism": 38, "openness_variance": 10, "conscientiousness_variance": 12, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["LLM統合の技術検証", "モデル精度の向上", "スケーラビリティの確保"],
+      "culture_profile": {
+        "openness": 88,
+        "conscientiousness": 80,
+        "extraversion": 52,
+        "agreeableness": 65,
+        "neuroticism": 38,
+        "openness_variance": 10,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "LLM統合の技術検証",
+        "モデル精度の向上",
+        "スケーラビリティの確保"
+      ],
       "workload_average": 82,
-      "requirements": [{"skill_id": "sk_001", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_007", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_007",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_015",
@@ -212,10 +722,52 @@
       "size": 18,
       "location": "東京本社",
       "remote_policy": "full_remote",
-      "culture_profile": {"openness": 85, "conscientiousness": 78, "extraversion": 62, "agreeableness": 75, "neuroticism": 40, "openness_variance": 12, "conscientiousness_variance": 15, "extraversion_variance": 18, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["Next.js移行プロジェクト", "デザインシステムの統一", "パフォーマンス最適化"],
+      "culture_profile": {
+        "openness": 85,
+        "conscientiousness": 78,
+        "extraversion": 62,
+        "agreeableness": 75,
+        "neuroticism": 40,
+        "openness_variance": 12,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "Next.js移行プロジェクト",
+        "デザインシステムの統一",
+        "パフォーマンス最適化"
+      ],
       "workload_average": 75,
-      "requirements": [{"skill_id": "sk_003", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_004", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_003",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_004",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_016",
@@ -226,10 +778,58 @@
       "size": 22,
       "location": "東京・大阪",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 88, "extraversion": 48, "agreeableness": 62, "neuroticism": 35, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["マイクロサービス化の推進", "データベース最適化", "セキュリティ強化"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 88,
+        "extraversion": 48,
+        "agreeableness": 62,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "マイクロサービス化の推進",
+        "データベース最適化",
+        "セキュリティ強化"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_001", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_009", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_009",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "junior",
+          "count": 2,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_017",
@@ -240,10 +840,46 @@
       "size": 16,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 82, "conscientiousness": 80, "extraversion": 58, "agreeableness": 72, "neuroticism": 42, "openness_variance": 12, "conscientiousness_variance": 12, "extraversion_variance": 18, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["クロスプラットフォーム開発", "アプリパフォーマンス改善", "ユーザー体験の向上"],
+      "culture_profile": {
+        "openness": 82,
+        "conscientiousness": 80,
+        "extraversion": 58,
+        "agreeableness": 72,
+        "neuroticism": 42,
+        "openness_variance": 12,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "クロスプラットフォーム開発",
+        "アプリパフォーマンス改善",
+        "ユーザー体験の向上"
+      ],
       "workload_average": 77,
-      "requirements": [{"skill_id": "sk_002", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_002",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_018",
@@ -254,10 +890,46 @@
       "size": 18,
       "location": "東京・横浜",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 86, "conscientiousness": 82, "extraversion": 55, "agreeableness": 68, "neuroticism": 38, "openness_variance": 10, "conscientiousness_variance": 12, "extraversion_variance": 18, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["デバイス接続の安定化", "リアルタイムデータ処理", "セキュリティ対策"],
+      "culture_profile": {
+        "openness": 86,
+        "conscientiousness": 82,
+        "extraversion": 55,
+        "agreeableness": 68,
+        "neuroticism": 38,
+        "openness_variance": 10,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "デバイス接続の安定化",
+        "リアルタイムデータ処理",
+        "セキュリティ対策"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_001", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_019",
@@ -268,10 +940,46 @@
       "size": 14,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 72, "conscientiousness": 92, "extraversion": 50, "agreeableness": 75, "neuroticism": 32, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 20, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["テスト自動化率の向上", "リグレッションテストの効率化", "品質メトリクスの可視化"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 92,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 32,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "テスト自動化率の向上",
+        "リグレッションテストの効率化",
+        "品質メトリクスの可視化"
+      ],
       "workload_average": 73,
-      "requirements": [{"skill_id": "sk_001", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_020",
@@ -282,10 +990,52 @@
       "size": 16,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 78, "conscientiousness": 90, "extraversion": 45, "agreeableness": 65, "neuroticism": 30, "openness_variance": 12, "conscientiousness_variance": 8, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 12},
-      "current_challenges": ["システム可用性99.9%の維持", "コスト最適化", "障害対応の自動化"],
+      "culture_profile": {
+        "openness": 78,
+        "conscientiousness": 90,
+        "extraversion": 45,
+        "agreeableness": 65,
+        "neuroticism": 30,
+        "openness_variance": 12,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "システム可用性99.9%の維持",
+        "コスト最適化",
+        "障害対応の自動化"
+      ],
       "workload_average": 85,
-      "requirements": [{"skill_id": "sk_011", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_012", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_011",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_012",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_021",
@@ -296,10 +1046,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 88, "conscientiousness": 85, "extraversion": 70, "agreeableness": 75, "neuroticism": 35, "openness_variance": 10, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["プロダクトロードマップの明確化", "ステークホルダー調整", "市場分析・競合調査"],
+      "culture_profile": {
+        "openness": 88,
+        "conscientiousness": 85,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 35,
+        "openness_variance": 10,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "プロダクトロードマップの明確化",
+        "ステークホルダー調整",
+        "市場分析・競合調査"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_013", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_013",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "product",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "product",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_022",
@@ -310,10 +1096,52 @@
       "size": 14,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 80, "conscientiousness": 86, "extraversion": 48, "agreeableness": 62, "neuroticism": 38, "openness_variance": 12, "conscientiousness_variance": 10, "extraversion_variance": 20, "agreeableness_variance": 18, "neuroticism_variance": 15},
-      "current_challenges": ["データパイプラインの構築", "リアルタイム分析基盤", "データ品質の向上"],
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 86,
+        "extraversion": 48,
+        "agreeableness": 62,
+        "neuroticism": 38,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 18,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "データパイプラインの構築",
+        "リアルタイム分析基盤",
+        "データ品質の向上"
+      ],
       "workload_average": 76,
-      "requirements": [{"skill_id": "sk_001", "required_level": 5, "is_mandatory": true, "priority": 1}, {"skill_id": "sk_009", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_001",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        },
+        {
+          "skill_id": "sk_009",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_023",
@@ -324,10 +1152,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "full_remote",
-      "culture_profile": {"openness": 82, "conscientiousness": 88, "extraversion": 45, "agreeableness": 65, "neuroticism": 38, "openness_variance": 12, "conscientiousness_variance": 10, "extraversion_variance": 22, "agreeableness_variance": 18, "neuroticism_variance": 15},
-      "current_challenges": ["データパイプラインの自動化", "リアルタイム分析基盤の構築", "予測モデルの精度向上"],
+      "culture_profile": {
+        "openness": 82,
+        "conscientiousness": 88,
+        "extraversion": 45,
+        "agreeableness": 65,
+        "neuroticism": 38,
+        "openness_variance": 12,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 22,
+        "agreeableness_variance": 18,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "データパイプラインの自動化",
+        "リアルタイム分析基盤の構築",
+        "予測モデルの精度向上"
+      ],
       "workload_average": 76,
-      "requirements": [{"skill_id": "sk_021", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_021",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_024",
@@ -338,10 +1202,40 @@
       "size": 10,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 95, "extraversion": 42, "agreeableness": 68, "neuroticism": 28, "openness_variance": 12, "conscientiousness_variance": 5, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 12},
-      "current_challenges": ["セキュリティ監査の強化", "脆弱性対応の迅速化", "セキュリティ教育の推進"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 95,
+        "extraversion": 42,
+        "agreeableness": 68,
+        "neuroticism": 28,
+        "openness_variance": 12,
+        "conscientiousness_variance": 5,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "セキュリティ監査の強化",
+        "脆弱性対応の迅速化",
+        "セキュリティ教育の推進"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_011", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_011",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_025",
@@ -352,10 +1246,46 @@
       "size": 16,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 95, "conscientiousness": 80, "extraversion": 65, "agreeableness": 78, "neuroticism": 42, "openness_variance": 5, "conscientiousness_variance": 12, "extraversion_variance": 18, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["デザインシステムの構築", "ユーザーリサーチの強化", "アクセシビリティ対応"],
+      "culture_profile": {
+        "openness": 95,
+        "conscientiousness": 80,
+        "extraversion": 65,
+        "agreeableness": 78,
+        "neuroticism": 42,
+        "openness_variance": 5,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "デザインシステムの構築",
+        "ユーザーリサーチの強化",
+        "アクセシビリティ対応"
+      ],
       "workload_average": 74,
-      "requirements": [{"skill_id": "sk_022", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_022",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "design",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "design",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_026",
@@ -366,10 +1296,40 @@
       "size": 9,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 92, "conscientiousness": 75, "extraversion": 68, "agreeableness": 75, "neuroticism": 45, "openness_variance": 8, "conscientiousness_variance": 15, "extraversion_variance": 15, "agreeableness_variance": 12, "neuroticism_variance": 18},
-      "current_challenges": ["ブランドガイドラインの統一", "マーケティング資料の制作効率化", "動画コンテンツ制作の強化"],
+      "culture_profile": {
+        "openness": 92,
+        "conscientiousness": 75,
+        "extraversion": 68,
+        "agreeableness": 75,
+        "neuroticism": 45,
+        "openness_variance": 8,
+        "conscientiousness_variance": 15,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 18
+      },
+      "current_challenges": [
+        "ブランドガイドラインの統一",
+        "マーケティング資料の制作効率化",
+        "動画コンテンツ制作の強化"
+      ],
       "workload_average": 70,
-      "requirements": [{"skill_id": "sk_022", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_022",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "design",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_027",
@@ -380,10 +1340,46 @@
       "size": 20,
       "location": "東京・大阪",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 78, "conscientiousness": 82, "extraversion": 75, "agreeableness": 88, "neuroticism": 35, "openness_variance": 12, "conscientiousness_variance": 12, "extraversion_variance": 15, "agreeableness_variance": 8, "neuroticism_variance": 15},
-      "current_challenges": ["チャーンレート低減", "アップセル・クロスセルの強化", "顧客満足度向上"],
+      "culture_profile": {
+        "openness": 78,
+        "conscientiousness": 82,
+        "extraversion": 75,
+        "agreeableness": 88,
+        "neuroticism": 35,
+        "openness_variance": 12,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 8,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "チャーンレート低減",
+        "アップセル・クロスセルの強化",
+        "顧客満足度向上"
+      ],
       "workload_average": 77,
-      "requirements": [{"skill_id": "sk_019", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_019",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "customer_success",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "customer_success",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_028",
@@ -394,10 +1390,46 @@
       "size": 18,
       "location": "東京・福岡",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 72, "conscientiousness": 88, "extraversion": 65, "agreeableness": 85, "neuroticism": 38, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 18, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["問い合わせ対応時間の短縮", "ナレッジベースの充実", "チャットボット導入"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 88,
+        "extraversion": 65,
+        "agreeableness": 85,
+        "neuroticism": 38,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "問い合わせ対応時間の短縮",
+        "ナレッジベースの充実",
+        "チャットボット導入"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_015", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "customer_success",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "customer_success",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_029",
@@ -408,10 +1440,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 80, "conscientiousness": 80, "extraversion": 78, "agreeableness": 82, "neuroticism": 40, "openness_variance": 12, "conscientiousness_variance": 12, "extraversion_variance": 15, "agreeableness_variance": 10, "neuroticism_variance": 15},
-      "current_challenges": ["トレーニングコンテンツの拡充", "ウェビナー開催頻度の向上", "顧客の活用度向上"],
+      "culture_profile": {
+        "openness": 80,
+        "conscientiousness": 80,
+        "extraversion": 78,
+        "agreeableness": 82,
+        "neuroticism": 40,
+        "openness_variance": 12,
+        "conscientiousness_variance": 12,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "トレーニングコンテンツの拡充",
+        "ウェビナー開催頻度の向上",
+        "顧客の活用度向上"
+      ],
       "workload_average": 68,
-      "requirements": [{"skill_id": "sk_016", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_016",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "customer_success",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "customer_success",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_030",
@@ -422,10 +1490,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 82, "conscientiousness": 85, "extraversion": 75, "agreeableness": 88, "neuroticism": 32, "openness_variance": 10, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 8, "neuroticism_variance": 12},
-      "current_challenges": ["エンジニア採用の強化", "採用プロセスの効率化", "新入社員研修の改善"],
+      "culture_profile": {
+        "openness": 82,
+        "conscientiousness": 85,
+        "extraversion": 75,
+        "agreeableness": 88,
+        "neuroticism": 32,
+        "openness_variance": 10,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 8,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "エンジニア採用の強化",
+        "採用プロセスの効率化",
+        "新入社員研修の改善"
+      ],
       "workload_average": 82,
-      "requirements": [{"skill_id": "sk_024", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_024",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_031",
@@ -436,10 +1540,40 @@
       "size": 8,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 92, "extraversion": 58, "agreeableness": 80, "neuroticism": 30, "openness_variance": 12, "conscientiousness_variance": 8, "extraversion_variance": 18, "agreeableness_variance": 10, "neuroticism_variance": 12},
-      "current_challenges": ["人事制度の見直し", "ワークライフバランスの推進", "労務コンプライアンスの強化"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 92,
+        "extraversion": 58,
+        "agreeableness": 80,
+        "neuroticism": 30,
+        "openness_variance": 12,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "人事制度の見直し",
+        "ワークライフバランスの推進",
+        "労務コンプライアンスの強化"
+      ],
       "workload_average": 75,
-      "requirements": [{"skill_id": "sk_024", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_024",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_032",
@@ -450,10 +1584,40 @@
       "size": 10,
       "location": "東京本社",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 68, "conscientiousness": 90, "extraversion": 72, "agreeableness": 85, "neuroticism": 30, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 15, "agreeableness_variance": 10, "neuroticism_variance": 12},
-      "current_challenges": ["オフィス環境の改善", "コスト削減", "社内イベントの活性化"],
+      "culture_profile": {
+        "openness": 68,
+        "conscientiousness": 90,
+        "extraversion": 72,
+        "agreeableness": 85,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "オフィス環境の改善",
+        "コスト削減",
+        "社内イベントの活性化"
+      ],
       "workload_average": 65,
-      "requirements": [{"skill_id": "sk_015", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_033",
@@ -464,10 +1628,40 @@
       "size": 8,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 70, "conscientiousness": 88, "extraversion": 55, "agreeableness": 78, "neuroticism": 35, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 20, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["社内IT環境の整備", "セキュリティ対策", "ヘルプデスク対応の効率化"],
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 88,
+        "extraversion": 55,
+        "agreeableness": 78,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "社内IT環境の整備",
+        "セキュリティ対策",
+        "ヘルプデスク対応の効率化"
+      ],
       "workload_average": 72,
-      "requirements": [{"skill_id": "sk_011", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_011",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_034",
@@ -478,10 +1672,46 @@
       "size": 14,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 65, "conscientiousness": 95, "extraversion": 48, "agreeableness": 72, "neuroticism": 28, "openness_variance": 15, "conscientiousness_variance": 5, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 12},
-      "current_challenges": ["決算業務の効率化", "経理システムの刷新", "内部統制の強化"],
+      "culture_profile": {
+        "openness": 65,
+        "conscientiousness": 95,
+        "extraversion": 48,
+        "agreeableness": 72,
+        "neuroticism": 28,
+        "openness_variance": 15,
+        "conscientiousness_variance": 5,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "決算業務の効率化",
+        "経理システムの刷新",
+        "内部統制の強化"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_025", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_025",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_035",
@@ -492,10 +1722,40 @@
       "size": 8,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 92, "extraversion": 58, "agreeableness": 70, "neuroticism": 30, "openness_variance": 12, "conscientiousness_variance": 8, "extraversion_variance": 18, "agreeableness_variance": 15, "neuroticism_variance": 12},
-      "current_challenges": ["予算精度の向上", "資金繰りの最適化", "財務KPIの可視化"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 92,
+        "extraversion": 58,
+        "agreeableness": 70,
+        "neuroticism": 30,
+        "openness_variance": 12,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "予算精度の向上",
+        "資金繰りの最適化",
+        "財務KPIの可視化"
+      ],
       "workload_average": 75,
-      "requirements": [{"skill_id": "sk_025", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_025",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_036",
@@ -506,10 +1766,46 @@
       "size": 12,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 72, "conscientiousness": 95, "extraversion": 52, "agreeableness": 68, "neuroticism": 25, "openness_variance": 12, "conscientiousness_variance": 5, "extraversion_variance": 18, "agreeableness_variance": 15, "neuroticism_variance": 10},
-      "current_challenges": ["契約審査の迅速化", "コンプライアンス教育の推進", "知財戦略の強化"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 95,
+        "extraversion": 52,
+        "agreeableness": 68,
+        "neuroticism": 25,
+        "openness_variance": 12,
+        "conscientiousness_variance": 5,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 10
+      },
+      "current_challenges": [
+        "契約審査の迅速化",
+        "コンプライアンス教育の推進",
+        "知財戦略の強化"
+      ],
       "workload_average": 76,
-      "requirements": [{"skill_id": "sk_017", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_017",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_037",
@@ -520,10 +1816,46 @@
       "size": 15,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 75, "conscientiousness": 90, "extraversion": 50, "agreeableness": 72, "neuroticism": 32, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["社内システムの整備", "セキュリティ監視の強化", "ゼロトラスト導入"],
+      "culture_profile": {
+        "openness": 75,
+        "conscientiousness": 90,
+        "extraversion": 50,
+        "agreeableness": 72,
+        "neuroticism": 32,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "社内システムの整備",
+        "セキュリティ監視の強化",
+        "ゼロトラスト導入"
+      ],
       "workload_average": 74,
-      "requirements": [{"skill_id": "sk_011", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_011",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_038",
@@ -534,10 +1866,46 @@
       "size": 13,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 72, "conscientiousness": 88, "extraversion": 48, "agreeableness": 68, "neuroticism": 35, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 20, "agreeableness_variance": 15, "neuroticism_variance": 15},
-      "current_challenges": ["クラウド移行の推進", "ネットワーク安定性の向上", "コスト最適化"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 88,
+        "extraversion": 48,
+        "agreeableness": 68,
+        "neuroticism": 35,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 15,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "クラウド移行の推進",
+        "ネットワーク安定性の向上",
+        "コスト最適化"
+      ],
       "workload_average": 77,
-      "requirements": [{"skill_id": "sk_011", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_011",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_039",
@@ -548,10 +1916,52 @@
       "size": 42,
       "location": "横浜工場",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 62, "conscientiousness": 92, "extraversion": 55, "agreeableness": 78, "neuroticism": 30, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 18, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["生産効率の向上", "品質不良率の低減", "自動化の推進"],
+      "culture_profile": {
+        "openness": 62,
+        "conscientiousness": 92,
+        "extraversion": 55,
+        "agreeableness": 78,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "生産効率の向上",
+        "品質不良率の低減",
+        "自動化の推進"
+      ],
       "workload_average": 80,
-      "requirements": [{"skill_id": "sk_017", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_017",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "engineer",
+          "level": "junior",
+          "count": 2,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "engineer",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_040",
@@ -562,10 +1972,46 @@
       "size": 18,
       "location": "横浜工場",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 68, "conscientiousness": 95, "extraversion": 50, "agreeableness": 75, "neuroticism": 28, "openness_variance": 15, "conscientiousness_variance": 5, "extraversion_variance": 20, "agreeableness_variance": 12, "neuroticism_variance": 12},
-      "current_challenges": ["検査プロセスの効率化", "不良品率0.1%以下の維持", "品質データの可視化"],
+      "culture_profile": {
+        "openness": 68,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 75,
+        "neuroticism": 28,
+        "openness_variance": 15,
+        "conscientiousness_variance": 5,
+        "extraversion_variance": 20,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "検査プロセスの効率化",
+        "不良品率0.1%以下の維持",
+        "品質データの可視化"
+      ],
       "workload_average": 75,
-      "requirements": [{"skill_id": "sk_017", "required_level": 5, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_017",
+          "required_level": 5,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_041",
@@ -576,10 +2022,46 @@
       "size": 15,
       "location": "横浜工場",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 70, "conscientiousness": 90, "extraversion": 60, "agreeableness": 75, "neuroticism": 32, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 15, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["生産計画精度の向上", "リードタイム短縮", "在庫最適化"],
+      "culture_profile": {
+        "openness": 70,
+        "conscientiousness": 90,
+        "extraversion": 60,
+        "agreeableness": 75,
+        "neuroticism": 32,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "生産計画精度の向上",
+        "リードタイム短縮",
+        "在庫最適化"
+      ],
       "workload_average": 78,
-      "requirements": [{"skill_id": "sk_013", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_013",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_042",
@@ -590,10 +2072,46 @@
       "size": 12,
       "location": "横浜倉庫",
       "remote_policy": "onsite",
-      "culture_profile": {"openness": 68, "conscientiousness": 90, "extraversion": 58, "agreeableness": 80, "neuroticism": 30, "openness_variance": 15, "conscientiousness_variance": 8, "extraversion_variance": 18, "agreeableness_variance": 10, "neuroticism_variance": 12},
-      "current_challenges": ["配送リードタイムの短縮", "在庫回転率の向上", "倉庫管理システムの導入"],
+      "culture_profile": {
+        "openness": 68,
+        "conscientiousness": 90,
+        "extraversion": 58,
+        "agreeableness": 80,
+        "neuroticism": 30,
+        "openness_variance": 15,
+        "conscientiousness_variance": 8,
+        "extraversion_variance": 18,
+        "agreeableness_variance": 10,
+        "neuroticism_variance": 12
+      },
+      "current_challenges": [
+        "配送リードタイムの短縮",
+        "在庫回転率の向上",
+        "倉庫管理システムの導入"
+      ],
       "workload_average": 76,
-      "requirements": [{"skill_id": "sk_013", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_013",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "mid",
+          "count": 1,
+          "status": "open"
+        },
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     },
     {
       "id": "team_043",
@@ -604,11 +2122,40 @@
       "size": 8,
       "location": "東京本社",
       "remote_policy": "hybrid",
-      "culture_profile": {"openness": 72, "conscientiousness": 88, "extraversion": 65, "agreeableness": 78, "neuroticism": 32, "openness_variance": 15, "conscientiousness_variance": 10, "extraversion_variance": 15, "agreeableness_variance": 12, "neuroticism_variance": 15},
-      "current_challenges": ["調達コストの削減", "サプライヤーとの関係強化", "BCP対策の推進"],
+      "culture_profile": {
+        "openness": 72,
+        "conscientiousness": 88,
+        "extraversion": 65,
+        "agreeableness": 78,
+        "neuroticism": 32,
+        "openness_variance": 15,
+        "conscientiousness_variance": 10,
+        "extraversion_variance": 15,
+        "agreeableness_variance": 12,
+        "neuroticism_variance": 15
+      },
+      "current_challenges": [
+        "調達コストの削減",
+        "サプライヤーとの関係強化",
+        "BCP対策の推進"
+      ],
       "workload_average": 70,
-      "requirements": [{"skill_id": "sk_015", "required_level": 4, "is_mandatory": true, "priority": 1}]
+      "requirements": [
+        {
+          "skill_id": "sk_015",
+          "required_level": 4,
+          "is_mandatory": true,
+          "priority": 1
+        }
+      ],
+      "recruiting_positions": [
+        {
+          "role": "corporate",
+          "level": "senior",
+          "count": 1,
+          "status": "open"
+        }
+      ]
     }
   ]
 }
-

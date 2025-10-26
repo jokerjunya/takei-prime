@@ -4,6 +4,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { FitScoreBarChart } from './FitScoreBarChart'
+import { getRoleLabel, getRoleIcon, getRoleColors } from '@/lib/role-utils'
 import { 
   Mail, 
   Phone, 
@@ -15,6 +16,7 @@ import {
   TrendingUp
 } from 'lucide-react'
 import Link from 'next/link'
+import { cn } from '@/lib/utils'
 import type { Candidate, Team } from '@/lib/types'
 
 interface CandidateCardProps {
@@ -47,10 +49,20 @@ export function CandidateCard({
                 </div>
                 
                 <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-900">
-                    {candidate.name}
-                  </h3>
-                  <p className="text-sm text-gray-600 flex items-center gap-1.5 mt-1">
+                  <div className="flex items-center gap-2 mb-1">
+                    <h3 className="text-xl font-bold text-gray-900">
+                      {candidate.name}
+                    </h3>
+                    <Badge className={cn(
+                      "text-xs font-semibold border",
+                      getRoleColors(candidate.target_role).bg,
+                      getRoleColors(candidate.target_role).text,
+                      getRoleColors(candidate.target_role).border
+                    )}>
+                      {getRoleIcon(candidate.target_role)} {getRoleLabel(candidate.target_role)}
+                    </Badge>
+                  </div>
+                  <p className="text-sm text-gray-600 flex items-center gap-1.5">
                     <Briefcase className="w-3.5 h-3.5" />
                     {candidate.current_position}
                   </p>
@@ -105,15 +117,21 @@ export function CandidateCard({
           </div>
 
           {/* Fitスコア棒グラフ */}
-          {teamScores.length > 0 && (
+          {teamScores.length > 0 ? (
             <div>
               <div className="flex items-center gap-2 mb-3">
                 <div className="w-2 h-2 rounded-full bg-indigo-600" />
                 <h4 className="text-sm font-semibold text-gray-900">
-                  Fitスコア（チーム別トップ5）
+                  Fitスコア（{getRoleLabel(candidate.target_role)}職 トップ5）
                 </h4>
               </div>
               <FitScoreBarChart scores={teamScores} maxTeams={5} />
+            </div>
+          ) : (
+            <div className="p-4 bg-gray-50 rounded-lg text-center">
+              <p className="text-sm text-gray-500">
+                {getRoleLabel(candidate.target_role)}職の募集チームが見つかりません
+              </p>
             </div>
           )}
 

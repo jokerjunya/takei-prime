@@ -34,12 +34,17 @@ export default function CandidatesPage() {
         getSkills()
       ])
 
-      // 各候補者について全チームとのFitスコアを計算
+      // 各候補者について関連チームとのFitスコアを計算
       const candidatesWithScores: CandidateWithScores[] = []
       
       for (const candidate of candidatesData) {
+        // 候補者の応募職種と一致するチームのみ取得
+        const relevantTeams = teamsData.filter(team =>
+          team.recruiting_positions?.some(pos => pos.role === candidate.target_role)
+        )
+        
         const teamScores = await Promise.all(
-          teamsData.map(async (team) => ({
+          relevantTeams.map(async (team) => ({
             team,
             score: (await calculateFitScore(candidate, team, 'stability')).total_score
           }))

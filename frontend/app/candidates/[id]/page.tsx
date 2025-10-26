@@ -9,6 +9,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { PersonalityRadar } from '@/components/candidate/PersonalityRadar'
 import { FitScoreBarChart } from '@/components/candidate/FitScoreBarChart'
+import { getRoleLabel, getRoleIcon, getRoleColors } from '@/lib/role-utils'
 import { 
   ArrowLeft, 
   Mail, 
@@ -21,6 +22,7 @@ import {
   Target
 } from 'lucide-react'
 import Link from 'next/link'
+import { cn } from '@/lib/utils'
 import type { Candidate, Team } from '@/lib/types'
 
 export default function CandidateDetailPage() {
@@ -44,9 +46,13 @@ export default function CandidateDetailPage() {
         return
       }
 
-      // 全チームとのFitスコアを計算
+      // 関連チームとのFitスコアを計算
+      const relevantTeams = teamsData.filter(team =>
+        team.recruiting_positions?.some(pos => pos.role === candidateData.target_role)
+      )
+      
       const scores = await Promise.all(
-        teamsData.map(async (team) => ({
+        relevantTeams.map(async (team) => ({
           team,
           score: (await calculateFitScore(candidateData, team, 'stability')).total_score
         }))
@@ -112,8 +118,18 @@ export default function CandidateDetailPage() {
           </div>
           
           <div className="flex-1">
-            <h1 className="text-4xl font-bold text-gray-900">{candidate.name}</h1>
-            <p className="text-xl text-gray-600 mt-2 flex items-center gap-2">
+            <div className="flex items-center gap-3 mb-2">
+              <h1 className="text-4xl font-bold text-gray-900">{candidate.name}</h1>
+              <Badge className={cn(
+                "text-base font-semibold border-2 px-3 py-1",
+                getRoleColors(candidate.target_role).bg,
+                getRoleColors(candidate.target_role).text,
+                getRoleColors(candidate.target_role).border
+              )}>
+                {getRoleIcon(candidate.target_role)} {getRoleLabel(candidate.target_role)}
+              </Badge>
+            </div>
+            <p className="text-xl text-gray-600 flex items-center gap-2">
               <Briefcase className="w-5 h-5" />
               {candidate.current_position}
             </p>
@@ -268,7 +284,7 @@ export default function CandidateDetailPage() {
           <div className="flex items-center justify-between">
             <CardTitle className="flex items-center gap-2">
               <Target className="w-5 h-5" />
-              おすすめチーム（トップ10）
+              おすすめチーム（{getRoleLabel(candidate.target_role)}職）
             </CardTitle>
             <p className="text-sm text-gray-500">
               全{teamScores.length}チーム中

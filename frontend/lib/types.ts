@@ -39,6 +39,8 @@ export interface Education {
 // 候補者
 // ========================================
 
+export type TargetRole = 'engineer' | 'sales' | 'marketing' | 'design' | 'product' | 'customer_success' | 'corporate'
+
 export interface Candidate {
   id: string
   name: string
@@ -50,6 +52,7 @@ export interface Candidate {
   personality_profile: PersonalityProfile
   work_style_preferences: WorkStylePreferences
   skills: Skill[]
+  target_role: TargetRole  // 応募職種
 }
 
 // ========================================
@@ -61,6 +64,13 @@ export interface TeamRequirement {
   required_level: number // 1-5
   is_mandatory: boolean
   priority: number // 1: high, 2: medium, 3: low
+}
+
+export interface RecruitingPosition {
+  role: TargetRole
+  level: 'junior' | 'mid' | 'senior'
+  count: number
+  status: 'open' | 'filled' | 'closed'
 }
 
 export interface TeamCultureProfile extends PersonalityProfile {
@@ -84,6 +94,7 @@ export interface Team {
   current_challenges: string[]
   workload_average: number // 0-100
   requirements: TeamRequirement[]
+  recruiting_positions: RecruitingPosition[]  // 募集ポジション
 }
 
 // ========================================

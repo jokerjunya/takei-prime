@@ -111,6 +111,21 @@ export async function getEmployeesByDepartment(department: string): Promise<Empl
 }
 
 /**
+ * 候補者に関連するチーム（募集職種が一致）を取得
+ */
+export async function getRelevantTeamsForCandidate(
+  candidate: Candidate,
+  allTeams?: Team[]
+): Promise<Team[]> {
+  const teams = allTeams || await getTeams()
+  
+  // 候補者のtarget_roleと一致する募集ポジションがあるチームを抽出
+  return teams.filter(team =>
+    team.recruiting_positions?.some(pos => pos.role === candidate.target_role)
+  )
+}
+
+/**
  * キャッシュクリア
  */
 export function clearCache() {

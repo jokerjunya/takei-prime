@@ -62,8 +62,11 @@ export async function simulateBatchAssignment(
 
   // Step 1: 各候補者を最適なチームに配置（貪欲法）
   for (const candidate of candidates) {
-    // 候補者に関連するチームを取得（全チーム、本来は職種フィルタが必要）
-    const relevantTeams = allTeams.filter(t => !assignedTeams.has(t.id))
+    // 候補者に関連するチームを取得（募集職種が一致するチームのみ）
+    const relevantTeams = allTeams.filter(t => 
+      !assignedTeams.has(t.id) &&
+      t.recruiting_positions?.some(pos => pos.role === candidate.target_role)
+    )
     
     if (relevantTeams.length === 0) break
 

@@ -5,57 +5,2095 @@
     "note": "多様な職種・スキル・性格を持つ候補者データ"
   },
   "candidates": [
-    {"id": "cand_001", "name": "田中 太郎", "email": "tanaka.taro@example.com", "phone": "090-1001-0001", "current_position": "シニアソフトウェアエンジニア", "years_of_experience": 8, "education": {"degree": "学士", "major": "情報工学", "university": "東京大学"}, "personality_profile": {"openness": 75, "conscientiousness": 80, "extraversion": 45, "agreeableness": 60, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 7.5}, {"skill_id": "sk_006", "proficiency_level": 4, "years_of_experience": 3.0}, {"skill_id": "sk_007", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_009", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_002", "name": "佐藤 花子", "email": "sato.hanako@example.com", "phone": "090-1001-0002", "current_position": "フロントエンドエンジニア", "years_of_experience": 5, "education": {"degree": "学士", "major": "デザイン学", "university": "多摩美術大学"}, "personality_profile": {"openness": 85, "conscientiousness": 70, "extraversion": 65, "agreeableness": 75, "neuroticism": 40}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "balanced", "work_pace": "burst", "decision_style": "intuitive"}, "skills": [{"skill_id": "sk_002", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_003", "proficiency_level": 5, "years_of_experience": 4.0}, {"skill_id": "sk_004", "proficiency_level": 5, "years_of_experience": 4.5}, {"skill_id": "sk_022", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_003", "name": "鈴木 一郎", "email": "suzuki.ichiro@example.com", "phone": "090-1001-0003", "current_position": "データサイエンティスト", "years_of_experience": 6, "education": {"degree": "修士", "major": "統計学", "university": "京都大学"}, "personality_profile": {"openness": 80, "conscientiousness": 85, "extraversion": 30, "agreeableness": 55, "neuroticism": 45}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "data_driven"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_007", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_021", "proficiency_level": 5, "years_of_experience": 6.0}]},
-    {"id": "cand_004", "name": "高橋 美咲", "email": "takahashi.misaki@example.com", "phone": "090-1001-0004", "current_position": "プロジェクトマネージャー", "years_of_experience": 10, "education": {"degree": "学士", "major": "経営学", "university": "慶應義塾大学"}, "personality_profile": {"openness": 65, "conscientiousness": 90, "extraversion": 75, "agreeableness": 70, "neuroticism": 25}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_013", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_014", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 10.0}]},
-    {"id": "cand_005", "name": "伊藤 健太", "email": "ito.kenta@example.com", "phone": "090-1001-0005", "current_position": "セールスマネージャー", "years_of_experience": 7, "education": {"degree": "学士", "major": "商学", "university": "早稲田大学"}, "personality_profile": {"openness": 70, "conscientiousness": 75, "extraversion": 85, "agreeableness": 80, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "verbal_preferred", "work_pace": "burst", "decision_style": "intuitive"}, "skills": [{"skill_id": "sk_018", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_019", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 7.0}]},
-    {"id": "cand_006", "name": "渡辺 さくら", "email": "watanabe.sakura@example.com", "phone": "090-1001-0006", "current_position": "マーケティングスペシャリスト", "years_of_experience": 4, "education": {"degree": "学士", "major": "社会学", "university": "上智大学"}, "personality_profile": {"openness": 90, "conscientiousness": 65, "extraversion": 70, "agreeableness": 75, "neuroticism": 50}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_020", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_021", "proficiency_level": 3, "years_of_experience": 3.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 4.0}]},
-    {"id": "cand_007", "name": "山本 大輔", "email": "yamamoto.daisuke@example.com", "phone": "090-1001-0007", "current_position": "バックエンドエンジニア", "years_of_experience": 9, "education": {"degree": "修士", "major": "コンピュータサイエンス", "university": "東京工業大学"}, "personality_profile": {"openness": 70, "conscientiousness": 85, "extraversion": 40, "agreeableness": 60, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_006", "proficiency_level": 5, "years_of_experience": 4.0}, {"skill_id": "sk_009", "proficiency_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_010", "proficiency_level": 5, "years_of_experience": 7.0}]},
-    {"id": "cand_008", "name": "中村 優子", "email": "nakamura.yuko@example.com", "phone": "090-1001-0008", "current_position": "人事マネージャー", "years_of_experience": 12, "education": {"degree": "学士", "major": "心理学", "university": "お茶の水女子大学"}, "personality_profile": {"openness": 75, "conscientiousness": 80, "extraversion": 65, "agreeableness": 85, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_024", "proficiency_level": 5, "years_of_experience": 12.0}, {"skill_id": "sk_014", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 12.0}]},
-    {"id": "cand_009", "name": "小林 翔太", "email": "kobayashi.shota@example.com", "phone": "090-1001-0009", "current_position": "フルスタックエンジニア", "years_of_experience": 3, "education": {"degree": "学士", "major": "情報科学", "university": "筑波大学"}, "personality_profile": {"openness": 85, "conscientiousness": 70, "extraversion": 55, "agreeableness": 65, "neuroticism": 45}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "burst", "decision_style": "adaptive"}, "skills": [{"skill_id": "sk_002", "proficiency_level": 4, "years_of_experience": 3.0}, {"skill_id": "sk_003", "proficiency_level": 4, "years_of_experience": 3.0}, {"skill_id": "sk_004", "proficiency_level": 4, "years_of_experience": 3.0}, {"skill_id": "sk_001", "proficiency_level": 3, "years_of_experience": 2.0}]},
-    {"id": "cand_010", "name": "加藤 愛美", "email": "kato.aimi@example.com", "phone": "090-1001-0010", "current_position": "UI/UXデザイナー", "years_of_experience": 6, "education": {"degree": "学士", "major": "デザイン学", "university": "武蔵野美術大学"}, "personality_profile": {"openness": 95, "conscientiousness": 75, "extraversion": 60, "agreeableness": 70, "neuroticism": 40}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "visual_preferred", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_022", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_004", "proficiency_level": 3, "years_of_experience": 3.0}]},
-    {"id": "cand_011", "name": "森 健一郎", "email": "mori.kenichiro@example.com", "phone": "090-1001-0011", "current_position": "SREエンジニア", "years_of_experience": 7, "education": {"degree": "修士", "major": "情報工学", "university": "東京工業大学"}, "personality_profile": {"openness": 72, "conscientiousness": 92, "extraversion": 42, "agreeableness": 65, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_011", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_012", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_012", "name": "林 美紀", "email": "hayashi.miki@example.com", "phone": "090-1001-0012", "current_position": "カスタマーサクセスマネージャー", "years_of_experience": 8, "education": {"degree": "学士", "major": "経営学", "university": "慶應義塾大学"}, "personality_profile": {"openness": 78, "conscientiousness": 85, "extraversion": 80, "agreeableness": 90, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_019", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_017", "proficiency_level": 4, "years_of_experience": 8.0}]},
-    {"id": "cand_013", "name": "吉田 拓也", "email": "yoshida.takuya@example.com", "phone": "090-1001-0013", "current_position": "プロダクトマネージャー", "years_of_experience": 9, "education": {"degree": "修士", "major": "MBA", "university": "一橋大学"}, "personality_profile": {"openness": 88, "conscientiousness": 88, "extraversion": 72, "agreeableness": 72, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "data_driven"}, "skills": [{"skill_id": "sk_013", "proficiency_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_017", "proficiency_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_021", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_014", "name": "松本 悠介", "email": "matsumoto.yusuke@example.com", "phone": "090-1001-0014", "current_position": "MLエンジニア", "years_of_experience": 5, "education": {"degree": "修士", "major": "データサイエンス", "university": "東京大学"}, "personality_profile": {"openness": 82, "conscientiousness": 82, "extraversion": 38, "agreeableness": 58, "neuroticism": 42}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "burst", "decision_style": "data_driven"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_007", "proficiency_level": 5, "years_of_experience": 4.0}, {"skill_id": "sk_008", "proficiency_level": 4, "years_of_experience": 3.0}]},
-    {"id": "cand_015", "name": "井上 彩", "email": "inoue.aya@example.com", "phone": "090-1001-0015", "current_position": "デジタルマーケター", "years_of_experience": 6, "education": {"degree": "学士", "major": "マーケティング", "university": "青山学院大学"}, "personality_profile": {"openness": 88, "conscientiousness": 72, "extraversion": 78, "agreeableness": 75, "neuroticism": 45}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_020", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_021", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_016", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_016", "name": "木村 誠", "email": "kimura.makoto@example.com", "phone": "090-1001-0016", "current_position": "エンタープライズセールス", "years_of_experience": 11, "education": {"degree": "学士", "major": "経済学", "university": "早稲田大学"}, "personality_profile": {"openness": 68, "conscientiousness": 85, "extraversion": 90, "agreeableness": 78, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "verbal_preferred", "work_pace": "burst", "decision_style": "intuitive"}, "skills": [{"skill_id": "sk_018", "proficiency_level": 5, "years_of_experience": 11.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 11.0}, {"skill_id": "sk_016", "proficiency_level": 5, "years_of_experience": 11.0}]},
-    {"id": "cand_017", "name": "斎藤 真理子", "email": "saito.mariko@example.com", "phone": "090-1001-0017", "current_position": "データエンジニア", "years_of_experience": 6, "education": {"degree": "修士", "major": "情報工学", "university": "京都大学"}, "personality_profile": {"openness": 78, "conscientiousness": 88, "extraversion": 45, "agreeableness": 62, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_009", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_021", "proficiency_level": 4, "years_of_experience": 4.0}]},
-    {"id": "cand_018", "name": "佐々木 亮", "email": "sasaki.ryo@example.com", "phone": "090-1001-0018", "current_position": "グラフィックデザイナー", "years_of_experience": 7, "education": {"degree": "学士", "major": "芸術学", "university": "武蔵野美術大学"}, "personality_profile": {"openness": 95, "conscientiousness": 72, "extraversion": 62, "agreeableness": 72, "neuroticism": 48}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "visual_preferred", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_022", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 7.0}]},
-    {"id": "cand_019", "name": "清水 理恵", "email": "shimizu.rie@example.com", "phone": "090-1001-0019", "current_position": "財務アナリスト", "years_of_experience": 8, "education": {"degree": "学士", "major": "会計学", "university": "中央大学"}, "personality_profile": {"openness": 68, "conscientiousness": 95, "extraversion": 50, "agreeableness": 70, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_025", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_021", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_020", "name": "長谷川 純", "email": "hasegawa.jun@example.com", "phone": "090-1001-0020", "current_position": "モバイルアプリエンジニア", "years_of_experience": 5, "education": {"degree": "学士", "major": "情報科学", "university": "大阪大学"}, "personality_profile": {"openness": 80, "conscientiousness": 78, "extraversion": 60, "agreeableness": 70, "neuroticism": 42}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "balanced", "work_pace": "burst", "decision_style": "adaptive"}, "skills": [{"skill_id": "sk_002", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_003", "proficiency_level": 4, "years_of_experience": 3.0}]},
-    {"id": "cand_021", "name": "石川 隆", "email": "ishikawa.takashi@example.com", "phone": "090-1001-0021", "current_position": "インサイドセールス", "years_of_experience": 4, "education": {"degree": "学士", "major": "経営学", "university": "明治大学"}, "personality_profile": {"openness": 75, "conscientiousness": 80, "extraversion": 85, "agreeableness": 82, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "verbal_preferred", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 4.0}, {"skill_id": "sk_018", "proficiency_level": 3, "years_of_experience": 3.0}]},
-    {"id": "cand_022", "name": "村田 奈々", "email": "murata.nana@example.com", "phone": "090-1001-0022", "current_position": "QAエンジニア", "years_of_experience": 5, "education": {"degree": "学士", "major": "情報工学", "university": "名古屋大学"}, "personality_profile": {"openness": 70, "conscientiousness": 92, "extraversion": 48, "agreeableness": 75, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_017", "proficiency_level": 5, "years_of_experience": 5.0}]},
-    {"id": "cand_023", "name": "前田 浩二", "email": "maeda.koji@example.com", "phone": "090-1001-0023", "current_position": "法務スペシャリスト", "years_of_experience": 9, "education": {"degree": "法務博士", "major": "法学", "university": "東京大学"}, "personality_profile": {"openness": 70, "conscientiousness": 95, "extraversion": 48, "agreeableness": 68, "neuroticism": 25}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_017", "required_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 9.0}]},
-    {"id": "cand_024", "name": "岡田 舞", "email": "okada.mai@example.com", "phone": "090-1001-0024", "current_position": "経営企画", "years_of_experience": 7, "education": {"degree": "MBA", "major": "経営学", "university": "慶應義塾大学"}, "personality_profile": {"openness": 85, "conscientiousness": 88, "extraversion": 70, "agreeableness": 72, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_017", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_021", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_013", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_025", "name": "原田 航", "email": "harada.wataru@example.com", "phone": "090-1001-0025", "current_position": "IoTエンジニア", "years_of_experience": 6, "education": {"degree": "修士", "major": "電気工学", "university": "東京工業大学"}, "personality_profile": {"openness": 82, "conscientiousness": 82, "extraversion": 52, "agreeableness": 65, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 6.0}, {"skill_id": "sk_011", "proficiency_level": 4, "years_of_experience": 4.0}]},
-    {"id": "cand_026", "name": "坂本 美穂", "email": "sakamoto.miho@example.com", "phone": "090-1001-0026", "current_position": "広報・PR", "years_of_experience": 8, "education": {"degree": "学士", "major": "メディア学", "university": "上智大学"}, "personality_profile": {"openness": 85, "conscientiousness": 78, "extraversion": 80, "agreeableness": 82, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_016", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_020", "proficiency_level": 3, "years_of_experience": 4.0}]},
-    {"id": "cand_027", "name": "内田 啓太", "email": "uchida.keita@example.com", "phone": "090-1001-0027", "current_position": "セキュリティエンジニア", "years_of_experience": 7, "education": {"degree": "修士", "major": "情報セキュリティ", "university": "筑波大学"}, "personality_profile": {"openness": 75, "conscientiousness": 95, "extraversion": 40, "agreeableness": 65, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_011", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_028", "name": "藤田 さゆり", "email": "fujita.sayuri@example.com", "phone": "090-1001-0028", "current_position": "採用マネージャー", "years_of_experience": 10, "education": {"degree": "学士", "major": "心理学", "university": "立教大学"}, "personality_profile": {"openness": 80, "conscientiousness": 85, "extraversion": 78, "agreeableness": 88, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_024", "proficiency_level": 5, "years_of_experience": 10.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 10.0}, {"skill_id": "sk_014", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_029", "name": "西村 健", "email": "nishimura.ken@example.com", "phone": "090-1001-0029", "current_position": "経理マネージャー", "years_of_experience": 12, "education": {"degree": "学士", "major": "会計学", "university": "中央大学"}, "personality_profile": {"openness": 62, "conscientiousness": 95, "extraversion": 45, "agreeableness": 72, "neuroticism": 25}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_025", "proficiency_level": 5, "years_of_experience": 12.0}, {"skill_id": "sk_021", "proficiency_level": 4, "years_of_experience": 8.0}]},
-    {"id": "cand_030", "name": "橋本 啓介", "email": "hashimoto.keisuke@example.com", "phone": "090-1001-0030", "current_position": "テクニカルサポート", "years_of_experience": 5, "education": {"degree": "学士", "major": "情報科学", "university": "北海道大学"}, "personality_profile": {"openness": 70, "conscientiousness": 85, "extraversion": 70, "agreeableness": 88, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_017", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_031", "name": "三浦 恵子", "email": "miura.keiko@example.com", "phone": "090-1001-0031", "current_position": "総務スタッフ", "years_of_experience": 6, "education": {"degree": "学士", "major": "経営学", "university": "日本大学"}, "personality_profile": {"openness": 65, "conscientiousness": 88, "extraversion": 68, "agreeableness": 85, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 6.0}]},
-    {"id": "cand_032", "name": "上田 大輔", "email": "ueda.daisuke@example.com", "phone": "090-1001-0032", "current_position": "生産管理", "years_of_experience": 8, "education": {"degree": "学士", "major": "機械工学", "university": "東京理科大学"}, "personality_profile": {"openness": 68, "conscientiousness": 90, "extraversion": 58, "agreeableness": 75, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "balanced", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_013", "proficiency_level": 4, "years_of_experience": 8.0}, {"skill_id": "sk_021", "proficiency_level": 3, "years_of_experience": 5.0}]},
-    {"id": "cand_033", "name": "安藤 美咲", "email": "ando.misaki@example.com", "phone": "090-1001-0033", "current_position": "品質管理エンジニア", "years_of_experience": 7, "education": {"degree": "学士", "major": "化学工学", "university": "横浜国立大学"}, "personality_profile": {"openness": 65, "conscientiousness": 95, "extraversion": 48, "agreeableness": 75, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_017", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_021", "proficiency_level": 3, "years_of_experience": 4.0}]},
-    {"id": "cand_034", "name": "菅原 翔", "email": "sugawara.sho@example.com", "phone": "090-1001-0034", "current_position": "物流マネージャー", "years_of_experience": 9, "education": {"degree": "学士", "major": "経営学", "university": "立命館大学"}, "personality_profile": {"openness": 70, "conscientiousness": 90, "extraversion": 65, "agreeableness": 80, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "onsite", "communication_style": "verbal_preferred", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_013", "proficiency_level": 5, "years_of_experience": 9.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 9.0}]},
-    {"id": "cand_035", "name": "野口 愛", "email": "noguchi.ai@example.com", "phone": "090-1001-0035", "current_position": "パートナーセールス", "years_of_experience": 6, "education": {"degree": "学士", "major": "商学", "university": "関西学院大学"}, "personality_profile": {"openness": 78, "conscientiousness": 78, "extraversion": 82, "agreeableness": 85, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "burst", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_018", "proficiency_level": 4, "years_of_experience": 6.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 6.0}]},
-    {"id": "cand_036", "name": "山田 龍", "email": "yamada.ryu@example.com", "phone": "090-1001-0036", "current_position": "中途採用担当", "years_of_experience": 5, "education": {"degree": "学士", "major": "人文学", "university": "早稲田大学"}, "personality_profile": {"openness": 80, "conscientiousness": 82, "extraversion": 78, "agreeableness": 88, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_024", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 5.0}]},
-    {"id": "cand_037", "name": "池田 梨花", "email": "ikeda.rika@example.com", "phone": "090-1001-0037", "current_position": "ITヘルプデスク", "years_of_experience": 4, "education": {"degree": "学士", "major": "情報工学", "university": "芝浦工業大学"}, "personality_profile": {"openness": 68, "conscientiousness": 85, "extraversion": 72, "agreeableness": 82, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_011", "proficiency_level": 3, "years_of_experience": 4.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 4.0}]},
-    {"id": "cand_038", "name": "田村 健", "email": "tamura.takeshi@example.com", "phone": "090-1001-0038", "current_position": "購買担当", "years_of_experience": 7, "education": {"degree": "学士", "major": "経営学", "university": "同志社大学"}, "personality_profile": {"openness": 70, "conscientiousness": 85, "extraversion": 62, "agreeableness": 78, "neuroticism": 32}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 7.0}, {"skill_id": "sk_017", "proficiency_level": 3, "years_of_experience": 7.0}]},
-    {"id": "cand_039", "name": "岩崎 由美", "email": "iwasaki.yumi@example.com", "phone": "090-1001-0039", "current_position": "経理スタッフ", "years_of_experience": 5, "education": {"degree": "学士", "major": "商学", "university": "明治大学"}, "personality_profile": {"openness": 62, "conscientiousness": 92, "extraversion": 45, "agreeableness": 70, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_025", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_040", "name": "古川 雄一", "email": "furukawa.yuichi@example.com", "phone": "090-1001-0040", "current_position": "SMB営業", "years_of_experience": 5, "education": {"degree": "学士", "major": "経済学", "university": "法政大学"}, "personality_profile": {"openness": 72, "conscientiousness": 75, "extraversion": 82, "agreeableness": 80, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "verbal_preferred", "work_pace": "burst", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_018", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_041", "name": "竹内 麻衣", "email": "takeuchi.mai@example.com", "phone": "090-1001-0041", "current_position": "コンテンツマーケター", "years_of_experience": 4, "education": {"degree": "学士", "major": "文学", "university": "青山学院大学"}, "personality_profile": {"openness": 90, "conscientiousness": 70, "extraversion": 65, "agreeableness": 75, "neuroticism": 45}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "balanced", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_020", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 4.0}]},
-    {"id": "cand_042", "name": "宮本 浩一", "email": "miyamoto.koichi@example.com", "phone": "090-1001-0042", "current_position": "SREエンジニア", "years_of_experience": 6, "education": {"degree": "修士", "major": "情報工学", "university": "東北大学"}, "personality_profile": {"openness": 75, "conscientiousness": 90, "extraversion": 42, "agreeableness": 65, "neuroticism": 30}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_011", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_012", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 4.0}]},
-    {"id": "cand_043", "name": "今井 沙織", "email": "imai.saori@example.com", "phone": "090-1001-0043", "current_position": "カスタマーサクセススペシャリスト", "years_of_experience": 5, "education": {"degree": "学士", "major": "経営学", "university": "上智大学"}, "personality_profile": {"openness": 75, "conscientiousness": 80, "extraversion": 75, "agreeableness": 88, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "collaborative"}, "skills": [{"skill_id": "sk_019", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 5.0}]},
-    {"id": "cand_044", "name": "河野 拓馬", "email": "kono.takuma@example.com", "phone": "090-1001-0044", "current_position": "フロントエンドエンジニア", "years_of_experience": 4, "education": {"degree": "学士", "major": "情報科学", "university": "九州大学"}, "personality_profile": {"openness": 82, "conscientiousness": 75, "extraversion": 58, "agreeableness": 72, "neuroticism": 42}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "balanced", "work_pace": "burst", "decision_style": "adaptive"}, "skills": [{"skill_id": "sk_002", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_003", "proficiency_level": 5, "years_of_experience": 4.0}, {"skill_id": "sk_004", "proficiency_level": 4, "years_of_experience": 3.0}]},
-    {"id": "cand_045", "name": "遠藤 直美", "email": "endo.naomi@example.com", "phone": "090-1001-0045", "current_position": "データアナリスト", "years_of_experience": 5, "education": {"degree": "修士", "major": "統計学", "university": "一橋大学"}, "personality_profile": {"openness": 80, "conscientiousness": 88, "extraversion": 40, "agreeableness": 62, "neuroticism": 38}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "data_driven"}, "skills": [{"skill_id": "sk_021", "proficiency_level": 5, "years_of_experience": 5.0}, {"skill_id": "sk_001", "proficiency_level": 4, "years_of_experience": 4.0}, {"skill_id": "sk_007", "proficiency_level": 3, "years_of_experience": 2.0}]},
-    {"id": "cand_046", "name": "青木 翔太", "email": "aoki.shota@example.com", "phone": "090-1001-0046", "current_position": "プロダクトマネージャー", "years_of_experience": 8, "education": {"degree": "MBA", "major": "経営学", "university": "早稲田大学"}, "personality_profile": {"openness": 85, "conscientiousness": 85, "extraversion": 70, "agreeableness": 73, "neuroticism": 33}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_013", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_015", "proficiency_level": 5, "years_of_experience": 8.0}, {"skill_id": "sk_017", "proficiency_level": 5, "years_of_experience": 8.0}]},
-    {"id": "cand_047", "name": "小野 恵", "email": "ono.megumi@example.com", "phone": "090-1001-0047", "current_position": "労務担当", "years_of_experience": 7, "education": {"degree": "学士", "major": "法学", "university": "中央大学"}, "personality_profile": {"openness": 70, "conscientiousness": 92, "extraversion": 55, "agreeableness": 80, "neuroticism": 28}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_024", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_017", "proficiency_level": 4, "years_of_experience": 7.0}]},
-    {"id": "cand_048", "name": "松井 健太郎", "email": "matsui.kentaro@example.com", "phone": "090-1001-0048", "current_position": "バックエンドエンジニア", "years_of_experience": 7, "education": {"degree": "修士", "major": "情報工学", "university": "神戸大学"}, "personality_profile": {"openness": 72, "conscientiousness": 85, "extraversion": 45, "agreeableness": 62, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "full_remote", "communication_style": "written_preferred", "work_pace": "steady", "decision_style": "analytical"}, "skills": [{"skill_id": "sk_001", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_009", "proficiency_level": 5, "years_of_experience": 7.0}, {"skill_id": "sk_010", "proficiency_level": 4, "years_of_experience": 5.0}]},
-    {"id": "cand_049", "name": "福田 彩香", "email": "fukuda.ayaka@example.com", "phone": "090-1001-0049", "current_position": "UI/UXデザイナー", "years_of_experience": 6, "education": {"degree": "学士", "major": "デザイン学", "university": "千葉大学"}, "personality_profile": {"openness": 92, "conscientiousness": 78, "extraversion": 62, "agreeableness": 75, "neuroticism": 42}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "visual_preferred", "work_pace": "burst", "decision_style": "creative"}, "skills": [{"skill_id": "sk_022", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_004", "proficiency_level": 3, "years_of_experience": 3.0}]},
-    {"id": "cand_050", "name": "山崎 裕", "email": "yamazaki.yutaka@example.com", "phone": "090-1001-0050", "current_position": "営業企画", "years_of_experience": 6, "education": {"degree": "学士", "major": "経営学", "university": "神戸大学"}, "personality_profile": {"openness": 78, "conscientiousness": 82, "extraversion": 68, "agreeableness": 75, "neuroticism": 35}, "work_style_preferences": {"remote_preference": "hybrid", "communication_style": "balanced", "work_pace": "steady", "decision_style": "data_driven"}, "skills": [{"skill_id": "sk_021", "proficiency_level": 5, "years_of_experience": 6.0}, {"skill_id": "sk_013", "proficiency_level": 4, "years_of_experience": 5.0}, {"skill_id": "sk_015", "proficiency_level": 4, "years_of_experience": 6.0}]}
+    {
+      "id": "cand_001",
+      "name": "田中 太郎",
+      "email": "tanaka.taro@example.com",
+      "phone": "090-1001-0001",
+      "current_position": "シニアソフトウェアエンジニア",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "学士",
+        "major": "情報工学",
+        "university": "東京大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 80,
+        "extraversion": 45,
+        "agreeableness": 60,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 7.5
+        },
+        {
+          "skill_id": "sk_006",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_002",
+      "name": "佐藤 花子",
+      "email": "sato.hanako@example.com",
+      "phone": "090-1001-0002",
+      "current_position": "フロントエンドエンジニア",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "デザイン学",
+        "university": "多摩美術大学"
+      },
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 70,
+        "extraversion": 65,
+        "agreeableness": 75,
+        "neuroticism": 40
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "intuitive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 5,
+          "years_of_experience": 4.5
+        },
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_003",
+      "name": "鈴木 一郎",
+      "email": "suzuki.ichiro@example.com",
+      "phone": "090-1001-0003",
+      "current_position": "データサイエンティスト",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "修士",
+        "major": "統計学",
+        "university": "京都大学"
+      },
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 30,
+        "agreeableness": 55,
+        "neuroticism": 45
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "data_driven"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_004",
+      "name": "高橋 美咲",
+      "email": "takahashi.misaki@example.com",
+      "phone": "090-1001-0004",
+      "current_position": "プロジェクトマネージャー",
+      "years_of_experience": 10,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "慶應義塾大学"
+      },
+      "personality_profile": {
+        "openness": 65,
+        "conscientiousness": 90,
+        "extraversion": 75,
+        "agreeableness": 70,
+        "neuroticism": 25
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_014",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 10.0
+        }
+      ],
+      "target_role": "product"
+    },
+    {
+      "id": "cand_005",
+      "name": "伊藤 健太",
+      "email": "ito.kenta@example.com",
+      "phone": "090-1001-0005",
+      "current_position": "セールスマネージャー",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "学士",
+        "major": "商学",
+        "university": "早稲田大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 75,
+        "extraversion": 85,
+        "agreeableness": 80,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "verbal_preferred",
+        "work_pace": "burst",
+        "decision_style": "intuitive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        }
+      ],
+      "target_role": "sales"
+    },
+    {
+      "id": "cand_006",
+      "name": "渡辺 さくら",
+      "email": "watanabe.sakura@example.com",
+      "phone": "090-1001-0006",
+      "current_position": "マーケティングスペシャリスト",
+      "years_of_experience": 4,
+      "education": {
+        "degree": "学士",
+        "major": "社会学",
+        "university": "上智大学"
+      },
+      "personality_profile": {
+        "openness": 90,
+        "conscientiousness": 65,
+        "extraversion": 70,
+        "agreeableness": 75,
+        "neuroticism": 50
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 3,
+          "years_of_experience": 3.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "marketing"
+    },
+    {
+      "id": "cand_007",
+      "name": "山本 大輔",
+      "email": "yamamoto.daisuke@example.com",
+      "phone": "090-1001-0007",
+      "current_position": "バックエンドエンジニア",
+      "years_of_experience": 9,
+      "education": {
+        "degree": "修士",
+        "major": "コンピュータサイエンス",
+        "university": "東京工業大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 85,
+        "extraversion": 40,
+        "agreeableness": 60,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_006",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_010",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_008",
+      "name": "中村 優子",
+      "email": "nakamura.yuko@example.com",
+      "phone": "090-1001-0008",
+      "current_position": "人事マネージャー",
+      "years_of_experience": 12,
+      "education": {
+        "degree": "学士",
+        "major": "心理学",
+        "university": "お茶の水女子大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 80,
+        "extraversion": 65,
+        "agreeableness": 85,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 12.0
+        },
+        {
+          "skill_id": "sk_014",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 12.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_009",
+      "name": "小林 翔太",
+      "email": "kobayashi.shota@example.com",
+      "phone": "090-1001-0009",
+      "current_position": "フルスタックエンジニア",
+      "years_of_experience": 3,
+      "education": {
+        "degree": "学士",
+        "major": "情報科学",
+        "university": "筑波大学"
+      },
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 70,
+        "extraversion": 55,
+        "agreeableness": 65,
+        "neuroticism": 45
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "adaptive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 3,
+          "years_of_experience": 2.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_010",
+      "name": "加藤 愛美",
+      "email": "kato.aimi@example.com",
+      "phone": "090-1001-0010",
+      "current_position": "UI/UXデザイナー",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "デザイン学",
+        "university": "武蔵野美術大学"
+      },
+      "personality_profile": {
+        "openness": 95,
+        "conscientiousness": 75,
+        "extraversion": 60,
+        "agreeableness": 70,
+        "neuroticism": 40
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "visual_preferred",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 3,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "design"
+    },
+    {
+      "id": "cand_011",
+      "name": "森 健一郎",
+      "email": "mori.kenichiro@example.com",
+      "phone": "090-1001-0011",
+      "current_position": "SREエンジニア",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "修士",
+        "major": "情報工学",
+        "university": "東京工業大学"
+      },
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 92,
+        "extraversion": 42,
+        "agreeableness": 65,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_012",
+      "name": "林 美紀",
+      "email": "hayashi.miki@example.com",
+      "phone": "090-1001-0012",
+      "current_position": "カスタマーサクセスマネージャー",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "慶應義塾大学"
+      },
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 85,
+        "extraversion": 80,
+        "agreeableness": 90,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 8.0
+        }
+      ],
+      "target_role": "customer_success"
+    },
+    {
+      "id": "cand_013",
+      "name": "吉田 拓也",
+      "email": "yoshida.takuya@example.com",
+      "phone": "090-1001-0013",
+      "current_position": "プロダクトマネージャー",
+      "years_of_experience": 9,
+      "education": {
+        "degree": "修士",
+        "major": "MBA",
+        "university": "一橋大学"
+      },
+      "personality_profile": {
+        "openness": 88,
+        "conscientiousness": 88,
+        "extraversion": 72,
+        "agreeableness": 72,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "data_driven"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "product"
+    },
+    {
+      "id": "cand_014",
+      "name": "松本 悠介",
+      "email": "matsumoto.yusuke@example.com",
+      "phone": "090-1001-0014",
+      "current_position": "MLエンジニア",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "修士",
+        "major": "データサイエンス",
+        "university": "東京大学"
+      },
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 82,
+        "extraversion": 38,
+        "agreeableness": 58,
+        "neuroticism": 42
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "burst",
+        "decision_style": "data_driven"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_008",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_015",
+      "name": "井上 彩",
+      "email": "inoue.aya@example.com",
+      "phone": "090-1001-0015",
+      "current_position": "デジタルマーケター",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "マーケティング",
+        "university": "青山学院大学"
+      },
+      "personality_profile": {
+        "openness": 88,
+        "conscientiousness": 72,
+        "extraversion": 78,
+        "agreeableness": 75,
+        "neuroticism": 45
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "marketing"
+    },
+    {
+      "id": "cand_016",
+      "name": "木村 誠",
+      "email": "kimura.makoto@example.com",
+      "phone": "090-1001-0016",
+      "current_position": "エンタープライズセールス",
+      "years_of_experience": 11,
+      "education": {
+        "degree": "学士",
+        "major": "経済学",
+        "university": "早稲田大学"
+      },
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 85,
+        "extraversion": 90,
+        "agreeableness": 78,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "verbal_preferred",
+        "work_pace": "burst",
+        "decision_style": "intuitive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 5,
+          "years_of_experience": 11.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 11.0
+        },
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 11.0
+        }
+      ],
+      "target_role": "sales"
+    },
+    {
+      "id": "cand_017",
+      "name": "斎藤 真理子",
+      "email": "saito.mariko@example.com",
+      "phone": "090-1001-0017",
+      "current_position": "データエンジニア",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "修士",
+        "major": "情報工学",
+        "university": "京都大学"
+      },
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 88,
+        "extraversion": 45,
+        "agreeableness": 62,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_018",
+      "name": "佐々木 亮",
+      "email": "sasaki.ryo@example.com",
+      "phone": "090-1001-0018",
+      "current_position": "グラフィックデザイナー",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "学士",
+        "major": "芸術学",
+        "university": "武蔵野美術大学"
+      },
+      "personality_profile": {
+        "openness": 95,
+        "conscientiousness": 72,
+        "extraversion": 62,
+        "agreeableness": 72,
+        "neuroticism": 48
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "visual_preferred",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 7.0
+        }
+      ],
+      "target_role": "design"
+    },
+    {
+      "id": "cand_019",
+      "name": "清水 理恵",
+      "email": "shimizu.rie@example.com",
+      "phone": "090-1001-0019",
+      "current_position": "財務アナリスト",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "学士",
+        "major": "会計学",
+        "university": "中央大学"
+      },
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 95,
+        "extraversion": 50,
+        "agreeableness": 70,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_020",
+      "name": "長谷川 純",
+      "email": "hasegawa.jun@example.com",
+      "phone": "090-1001-0020",
+      "current_position": "モバイルアプリエンジニア",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "情報科学",
+        "university": "大阪大学"
+      },
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 78,
+        "extraversion": 60,
+        "agreeableness": 70,
+        "neuroticism": 42
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "adaptive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_021",
+      "name": "石川 隆",
+      "email": "ishikawa.takashi@example.com",
+      "phone": "090-1001-0021",
+      "current_position": "インサイドセールス",
+      "years_of_experience": 4,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "明治大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 80,
+        "extraversion": 85,
+        "agreeableness": 82,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "verbal_preferred",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 3,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "sales"
+    },
+    {
+      "id": "cand_022",
+      "name": "村田 奈々",
+      "email": "murata.nana@example.com",
+      "phone": "090-1001-0022",
+      "current_position": "QAエンジニア",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "情報工学",
+        "university": "名古屋大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 92,
+        "extraversion": 48,
+        "agreeableness": 75,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_023",
+      "name": "前田 浩二",
+      "email": "maeda.koji@example.com",
+      "phone": "090-1001-0023",
+      "current_position": "法務スペシャリスト",
+      "years_of_experience": 9,
+      "education": {
+        "degree": "法務博士",
+        "major": "法学",
+        "university": "東京大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 95,
+        "extraversion": 48,
+        "agreeableness": 68,
+        "neuroticism": 25
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "required_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 9.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_024",
+      "name": "岡田 舞",
+      "email": "okada.mai@example.com",
+      "phone": "090-1001-0024",
+      "current_position": "経営企画",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "MBA",
+        "major": "経営学",
+        "university": "慶應義塾大学"
+      },
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 88,
+        "extraversion": 70,
+        "agreeableness": 72,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_025",
+      "name": "原田 航",
+      "email": "harada.wataru@example.com",
+      "phone": "090-1001-0025",
+      "current_position": "IoTエンジニア",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "修士",
+        "major": "電気工学",
+        "university": "東京工業大学"
+      },
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 82,
+        "extraversion": 52,
+        "agreeableness": 65,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_026",
+      "name": "坂本 美穂",
+      "email": "sakamoto.miho@example.com",
+      "phone": "090-1001-0026",
+      "current_position": "広報・PR",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "学士",
+        "major": "メディア学",
+        "university": "上智大学"
+      },
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 78,
+        "extraversion": 80,
+        "agreeableness": 82,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_016",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 3,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "marketing"
+    },
+    {
+      "id": "cand_027",
+      "name": "内田 啓太",
+      "email": "uchida.keita@example.com",
+      "phone": "090-1001-0027",
+      "current_position": "セキュリティエンジニア",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "修士",
+        "major": "情報セキュリティ",
+        "university": "筑波大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 95,
+        "extraversion": 40,
+        "agreeableness": 65,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_028",
+      "name": "藤田 さゆり",
+      "email": "fujita.sayuri@example.com",
+      "phone": "090-1001-0028",
+      "current_position": "採用マネージャー",
+      "years_of_experience": 10,
+      "education": {
+        "degree": "学士",
+        "major": "心理学",
+        "university": "立教大学"
+      },
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 85,
+        "extraversion": 78,
+        "agreeableness": 88,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 10.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 10.0
+        },
+        {
+          "skill_id": "sk_014",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_029",
+      "name": "西村 健",
+      "email": "nishimura.ken@example.com",
+      "phone": "090-1001-0029",
+      "current_position": "経理マネージャー",
+      "years_of_experience": 12,
+      "education": {
+        "degree": "学士",
+        "major": "会計学",
+        "university": "中央大学"
+      },
+      "personality_profile": {
+        "openness": 62,
+        "conscientiousness": 95,
+        "extraversion": 45,
+        "agreeableness": 72,
+        "neuroticism": 25
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 5,
+          "years_of_experience": 12.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 4,
+          "years_of_experience": 8.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_030",
+      "name": "橋本 啓介",
+      "email": "hashimoto.keisuke@example.com",
+      "phone": "090-1001-0030",
+      "current_position": "テクニカルサポート",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "情報科学",
+        "university": "北海道大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 85,
+        "extraversion": 70,
+        "agreeableness": 88,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "customer_success"
+    },
+    {
+      "id": "cand_031",
+      "name": "三浦 恵子",
+      "email": "miura.keiko@example.com",
+      "phone": "090-1001-0031",
+      "current_position": "総務スタッフ",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "日本大学"
+      },
+      "personality_profile": {
+        "openness": 65,
+        "conscientiousness": 88,
+        "extraversion": 68,
+        "agreeableness": 85,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_032",
+      "name": "上田 大輔",
+      "email": "ueda.daisuke@example.com",
+      "phone": "090-1001-0032",
+      "current_position": "生産管理",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "学士",
+        "major": "機械工学",
+        "university": "東京理科大学"
+      },
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 90,
+        "extraversion": 58,
+        "agreeableness": 75,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 3,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_033",
+      "name": "安藤 美咲",
+      "email": "ando.misaki@example.com",
+      "phone": "090-1001-0033",
+      "current_position": "品質管理エンジニア",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "学士",
+        "major": "化学工学",
+        "university": "横浜国立大学"
+      },
+      "personality_profile": {
+        "openness": 65,
+        "conscientiousness": 95,
+        "extraversion": 48,
+        "agreeableness": 75,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 3,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_034",
+      "name": "菅原 翔",
+      "email": "sugawara.sho@example.com",
+      "phone": "090-1001-0034",
+      "current_position": "物流マネージャー",
+      "years_of_experience": 9,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "立命館大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 90,
+        "extraversion": 65,
+        "agreeableness": 80,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "onsite",
+        "communication_style": "verbal_preferred",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 9.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 9.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_035",
+      "name": "野口 愛",
+      "email": "noguchi.ai@example.com",
+      "phone": "090-1001-0035",
+      "current_position": "パートナーセールス",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "商学",
+        "university": "関西学院大学"
+      },
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 78,
+        "extraversion": 82,
+        "agreeableness": 85,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "burst",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "sales"
+    },
+    {
+      "id": "cand_036",
+      "name": "山田 龍",
+      "email": "yamada.ryu@example.com",
+      "phone": "090-1001-0036",
+      "current_position": "中途採用担当",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "人文学",
+        "university": "早稲田大学"
+      },
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 82,
+        "extraversion": 78,
+        "agreeableness": 88,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_037",
+      "name": "池田 梨花",
+      "email": "ikeda.rika@example.com",
+      "phone": "090-1001-0037",
+      "current_position": "ITヘルプデスク",
+      "years_of_experience": 4,
+      "education": {
+        "degree": "学士",
+        "major": "情報工学",
+        "university": "芝浦工業大学"
+      },
+      "personality_profile": {
+        "openness": 68,
+        "conscientiousness": 85,
+        "extraversion": 72,
+        "agreeableness": 82,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 3,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_038",
+      "name": "田村 健",
+      "email": "tamura.takeshi@example.com",
+      "phone": "090-1001-0038",
+      "current_position": "購買担当",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "同志社大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 85,
+        "extraversion": 62,
+        "agreeableness": 78,
+        "neuroticism": 32
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 3,
+          "years_of_experience": 7.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_039",
+      "name": "岩崎 由美",
+      "email": "iwasaki.yumi@example.com",
+      "phone": "090-1001-0039",
+      "current_position": "経理スタッフ",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "商学",
+        "university": "明治大学"
+      },
+      "personality_profile": {
+        "openness": 62,
+        "conscientiousness": 92,
+        "extraversion": 45,
+        "agreeableness": 70,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_025",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_040",
+      "name": "古川 雄一",
+      "email": "furukawa.yuichi@example.com",
+      "phone": "090-1001-0040",
+      "current_position": "SMB営業",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "経済学",
+        "university": "法政大学"
+      },
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 75,
+        "extraversion": 82,
+        "agreeableness": 80,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "verbal_preferred",
+        "work_pace": "burst",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_018",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "sales"
+    },
+    {
+      "id": "cand_041",
+      "name": "竹内 麻衣",
+      "email": "takeuchi.mai@example.com",
+      "phone": "090-1001-0041",
+      "current_position": "コンテンツマーケター",
+      "years_of_experience": 4,
+      "education": {
+        "degree": "学士",
+        "major": "文学",
+        "university": "青山学院大学"
+      },
+      "personality_profile": {
+        "openness": 90,
+        "conscientiousness": 70,
+        "extraversion": 65,
+        "agreeableness": 75,
+        "neuroticism": 45
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_020",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "marketing"
+    },
+    {
+      "id": "cand_042",
+      "name": "宮本 浩一",
+      "email": "miyamoto.koichi@example.com",
+      "phone": "090-1001-0042",
+      "current_position": "SREエンジニア",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "修士",
+        "major": "情報工学",
+        "university": "東北大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 90,
+        "extraversion": 42,
+        "agreeableness": 65,
+        "neuroticism": 30
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_011",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_012",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_043",
+      "name": "今井 沙織",
+      "email": "imai.saori@example.com",
+      "phone": "090-1001-0043",
+      "current_position": "カスタマーサクセススペシャリスト",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "上智大学"
+      },
+      "personality_profile": {
+        "openness": 75,
+        "conscientiousness": 80,
+        "extraversion": 75,
+        "agreeableness": 88,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "collaborative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_019",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "customer_success"
+    },
+    {
+      "id": "cand_044",
+      "name": "河野 拓馬",
+      "email": "kono.takuma@example.com",
+      "phone": "090-1001-0044",
+      "current_position": "フロントエンドエンジニア",
+      "years_of_experience": 4,
+      "education": {
+        "degree": "学士",
+        "major": "情報科学",
+        "university": "九州大学"
+      },
+      "personality_profile": {
+        "openness": 82,
+        "conscientiousness": 75,
+        "extraversion": 58,
+        "agreeableness": 72,
+        "neuroticism": 42
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "balanced",
+        "work_pace": "burst",
+        "decision_style": "adaptive"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_002",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_003",
+          "proficiency_level": 5,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 4,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_045",
+      "name": "遠藤 直美",
+      "email": "endo.naomi@example.com",
+      "phone": "090-1001-0045",
+      "current_position": "データアナリスト",
+      "years_of_experience": 5,
+      "education": {
+        "degree": "修士",
+        "major": "統計学",
+        "university": "一橋大学"
+      },
+      "personality_profile": {
+        "openness": 80,
+        "conscientiousness": 88,
+        "extraversion": 40,
+        "agreeableness": 62,
+        "neuroticism": 38
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "data_driven"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 4,
+          "years_of_experience": 4.0
+        },
+        {
+          "skill_id": "sk_007",
+          "proficiency_level": 3,
+          "years_of_experience": 2.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_046",
+      "name": "青木 翔太",
+      "email": "aoki.shota@example.com",
+      "phone": "090-1001-0046",
+      "current_position": "プロダクトマネージャー",
+      "years_of_experience": 8,
+      "education": {
+        "degree": "MBA",
+        "major": "経営学",
+        "university": "早稲田大学"
+      },
+      "personality_profile": {
+        "openness": 85,
+        "conscientiousness": 85,
+        "extraversion": 70,
+        "agreeableness": 73,
+        "neuroticism": 33
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 5,
+          "years_of_experience": 8.0
+        }
+      ],
+      "target_role": "product"
+    },
+    {
+      "id": "cand_047",
+      "name": "小野 恵",
+      "email": "ono.megumi@example.com",
+      "phone": "090-1001-0047",
+      "current_position": "労務担当",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "学士",
+        "major": "法学",
+        "university": "中央大学"
+      },
+      "personality_profile": {
+        "openness": 70,
+        "conscientiousness": 92,
+        "extraversion": 55,
+        "agreeableness": 80,
+        "neuroticism": 28
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_024",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_017",
+          "proficiency_level": 4,
+          "years_of_experience": 7.0
+        }
+      ],
+      "target_role": "corporate"
+    },
+    {
+      "id": "cand_048",
+      "name": "松井 健太郎",
+      "email": "matsui.kentaro@example.com",
+      "phone": "090-1001-0048",
+      "current_position": "バックエンドエンジニア",
+      "years_of_experience": 7,
+      "education": {
+        "degree": "修士",
+        "major": "情報工学",
+        "university": "神戸大学"
+      },
+      "personality_profile": {
+        "openness": 72,
+        "conscientiousness": 85,
+        "extraversion": 45,
+        "agreeableness": 62,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "full_remote",
+        "communication_style": "written_preferred",
+        "work_pace": "steady",
+        "decision_style": "analytical"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_001",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_009",
+          "proficiency_level": 5,
+          "years_of_experience": 7.0
+        },
+        {
+          "skill_id": "sk_010",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        }
+      ],
+      "target_role": "engineer"
+    },
+    {
+      "id": "cand_049",
+      "name": "福田 彩香",
+      "email": "fukuda.ayaka@example.com",
+      "phone": "090-1001-0049",
+      "current_position": "UI/UXデザイナー",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "デザイン学",
+        "university": "千葉大学"
+      },
+      "personality_profile": {
+        "openness": 92,
+        "conscientiousness": 78,
+        "extraversion": 62,
+        "agreeableness": 75,
+        "neuroticism": 42
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "visual_preferred",
+        "work_pace": "burst",
+        "decision_style": "creative"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_022",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_004",
+          "proficiency_level": 3,
+          "years_of_experience": 3.0
+        }
+      ],
+      "target_role": "design"
+    },
+    {
+      "id": "cand_050",
+      "name": "山崎 裕",
+      "email": "yamazaki.yutaka@example.com",
+      "phone": "090-1001-0050",
+      "current_position": "営業企画",
+      "years_of_experience": 6,
+      "education": {
+        "degree": "学士",
+        "major": "経営学",
+        "university": "神戸大学"
+      },
+      "personality_profile": {
+        "openness": 78,
+        "conscientiousness": 82,
+        "extraversion": 68,
+        "agreeableness": 75,
+        "neuroticism": 35
+      },
+      "work_style_preferences": {
+        "remote_preference": "hybrid",
+        "communication_style": "balanced",
+        "work_pace": "steady",
+        "decision_style": "data_driven"
+      },
+      "skills": [
+        {
+          "skill_id": "sk_021",
+          "proficiency_level": 5,
+          "years_of_experience": 6.0
+        },
+        {
+          "skill_id": "sk_013",
+          "proficiency_level": 4,
+          "years_of_experience": 5.0
+        },
+        {
+          "skill_id": "sk_015",
+          "proficiency_level": 4,
+          "years_of_experience": 6.0
+        }
+      ],
+      "target_role": "sales"
+    }
   ]
 }
-
-
