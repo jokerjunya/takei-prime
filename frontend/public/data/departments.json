@@ -1,0 +1,104 @@
+{
+  "organization": {
+    "name": "テックイノベーション株式会社",
+    "total_employees": 620,
+    "total_teams": 35,
+    "industry": "テクノロジー・製造業",
+    "founded": "2010年",
+    "description": "AI・IoTソリューションを提供するテクノロジー企業"
+  },
+  "departments": [
+    {
+      "id": "dept_001",
+      "name": "経営企画部",
+      "employee_count": 15,
+      "team_count": 2,
+      "description": "経営戦略の立案、予算管理、M&A、IR"
+    },
+    {
+      "id": "dept_002",
+      "name": "営業本部",
+      "employee_count": 120,
+      "team_count": 8,
+      "description": "エンタープライズ営業、中小企業営業、海外営業"
+    },
+    {
+      "id": "dept_003",
+      "name": "マーケティング部",
+      "employee_count": 35,
+      "team_count": 3,
+      "description": "デジタルマーケティング、ブランディング、広報"
+    },
+    {
+      "id": "dept_004",
+      "name": "プロダクト開発本部",
+      "employee_count": 180,
+      "team_count": 10,
+      "description": "エンジニアリング、プロダクトマネジメント、QA"
+    },
+    {
+      "id": "dept_005",
+      "name": "デザイン部",
+      "employee_count": 25,
+      "team_count": 2,
+      "description": "UI/UX、グラフィック、ブランドデザイン"
+    },
+    {
+      "id": "dept_006",
+      "name": "カスタマーサクセス部",
+      "employee_count": 50,
+      "team_count": 3,
+      "description": "顧客支援、オンボーディング、テクニカルサポート"
+    },
+    {
+      "id": "dept_007",
+      "name": "人事部",
+      "employee_count": 20,
+      "team_count": 2,
+      "description": "採用、人材育成、労務、人事企画"
+    },
+    {
+      "id": "dept_008",
+      "name": "総務部",
+      "employee_count": 18,
+      "team_count": 2,
+      "description": "施設管理、庶務、社内イベント"
+    },
+    {
+      "id": "dept_009",
+      "name": "財務・経理部",
+      "employee_count": 22,
+      "team_count": 2,
+      "description": "経理、財務、予算管理"
+    },
+    {
+      "id": "dept_010",
+      "name": "法務・コンプライアンス部",
+      "employee_count": 12,
+      "team_count": 1,
+      "description": "契約法務、知財、コンプライアンス"
+    },
+    {
+      "id": "dept_011",
+      "name": "情報システム部",
+      "employee_count": 28,
+      "team_count": 2,
+      "description": "社内IT、セキュリティ、インフラ"
+    },
+    {
+      "id": "dept_012",
+      "name": "製造部",
+      "employee_count": 75,
+      "team_count": 4,
+      "description": "IoTデバイス製造、品質管理、生産管理"
+    },
+    {
+      "id": "dept_013",
+      "name": "物流・サプライチェーン部",
+      "employee_count": 20,
+      "team_count": 2,
+      "description": "物流管理、在庫管理、調達"
+    }
+  ]
+}
+

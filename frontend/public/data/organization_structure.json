@@ -1,0 +1,117 @@
+{
+  "organization": {
+    "id": "org_001",
+    "name": "テックイノベーション株式会社",
+    "total_employees": 620,
+    "founded": "2010年",
+    "industry": "テクノロジー・製造業",
+    "description": "AI・IoTソリューションを提供するテクノロジー企業",
+    "hierarchy": [
+      {
+        "id": "dept_001",
+        "name": "経営企画部",
+        "type": "department",
+        "employee_count": 15,
+        "level": 1,
+        "teams": ["team_001", "team_002"]
+      },
+      {
+        "id": "dept_002",
+        "name": "営業本部",
+        "type": "division",
+        "employee_count": 125,
+        "level": 1,
+        "teams": ["team_003", "team_004", "team_005", "team_006", "team_007", "team_008", "team_009", "team_010"]
+      },
+      {
+        "id": "dept_003",
+        "name": "マーケティング部",
+        "type": "department",
+        "employee_count": 35,
+        "level": 1,
+        "teams": ["team_011", "team_012", "team_013"]
+      },
+      {
+        "id": "dept_004",
+        "name": "プロダクト開発本部",
+        "type": "division",
+        "employee_count": 184,
+        "level": 1,
+        "teams": ["team_014", "team_015", "team_016", "team_017", "team_018", "team_019", "team_020", "team_021", "team_022", "team_023", "team_024"]
+      },
+      {
+        "id": "dept_005",
+        "name": "デザイン部",
+        "type": "department",
+        "employee_count": 25,
+        "level": 1,
+        "teams": ["team_025", "team_026"]
+      },
+      {
+        "id": "dept_006",
+        "name": "カスタマーサクセス部",
+        "type": "department",
+        "employee_count": 50,
+        "level": 1,
+        "teams": ["team_027", "team_028", "team_029"]
+      },
+      {
+        "id": "dept_007",
+        "name": "人事部",
+        "type": "department",
+        "employee_count": 20,
+        "level": 1,
+        "teams": ["team_030", "team_031"]
+      },
+      {
+        "id": "dept_008",
+        "name": "総務部",
+        "type": "department",
+        "employee_count": 18,
+        "level": 1,
+        "teams": ["team_032", "team_033"]
+      },
+      {
+        "id": "dept_009",
+        "name": "財務・経理部",
+        "type": "department",
+        "employee_count": 22,
+        "level": 1,
+        "teams": ["team_034", "team_035"]
+      },
+      {
+        "id": "dept_010",
+        "name": "法務・コンプライアンス部",
+        "type": "department",
+        "employee_count": 12,
+        "level": 1,
+        "teams": ["team_036"]
+      },
+      {
+        "id": "dept_011",
+        "name": "情報システム部",
+        "type": "department",
+        "employee_count": 28,
+        "level": 1,
+        "teams": ["team_037", "team_038"]
+      },
+      {
+        "id": "dept_012",
+        "name": "製造部",
+        "type": "department",
+        "employee_count": 75,
+        "level": 1,
+        "teams": ["team_039", "team_040", "team_041"]
+      },
+      {
+        "id": "dept_013",
+        "name": "物流・サプライチェーン部",
+        "type": "department",
+        "employee_count": 20,
+        "level": 1,
+        "teams": ["team_042", "team_043"]
+      }
+    ]
+  }
+}
+
